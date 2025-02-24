@@ -228,6 +228,10 @@ file = "mods/content/build-deco/led.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/let.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/nightlights.pw.toml"
 metafile = true
 
@@ -663,10 +667,6 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fsmp-ae2.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
@@ -928,6 +928,10 @@ metafile = true
 
 [[files]]
 file = "mods/performance/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/safelogin.pw.toml"
 metafile = true
 
 [[files]]
@@ -1271,6 +1275,10 @@ file = "mods/tweaks/hud/chatimage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/hud/colorful-subtitles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/emojiless.pw.toml"
 metafile = true
 
@@ -1472,6 +1480,10 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/bluemap/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/bluemap/hexmapping.pw.toml"
 metafile = true
 
 [[files]]
