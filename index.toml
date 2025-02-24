@@ -663,6 +663,10 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
