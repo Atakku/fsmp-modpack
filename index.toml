@@ -212,10 +212,6 @@ file = "mods/content/build-deco/beautify-refabricated.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/build-deco/chipped-express.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/build-deco/chipped.pw.toml"
 metafile = true
 
@@ -292,6 +288,10 @@ file = "mods/content/create/_create-pantographs-and-wire.toml"
 
 [[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/chipped-x-create-fabric.pw.toml"
 metafile = true
 
 [[files]]
