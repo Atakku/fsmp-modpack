@@ -1,0 +1,11 @@
+{
+	"clientData": {
+		"equipControl": "DISABLED",
+	},
+	"modifiers": [
+		{
+			"slotType": "face",
+			"amount": 1
+		}
+	]
+}

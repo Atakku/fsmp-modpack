@@ -14,6 +14,10 @@ file = "config/NoChatReports/NCR-Common.json"
 file = "config/NoChatReports/NCR-Encryption.json"
 
 [[files]]
+file = "config/accessories.json5"
+preserve = true
+
+[[files]]
 file = "config/ae2/client.json"
 preserve = true
 
