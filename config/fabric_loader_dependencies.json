@@ -18,7 +18,7 @@
     },
     "playercollars": {
       "-depends": {
-        "tclayer": ""
+        "trinkets": "IGNORED"
       }
     }
   }
