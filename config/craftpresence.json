@@ -58,6 +58,9 @@
     },
     "singleplayerData": {
       "textOverride": "Testing stuff in Singleplayer"
+    },
+    "realmData": {
+      "textOverride": "Playing on {server.motd.raw}"
     }
   },
   "advancedSettings": {
@@ -101,6 +104,13 @@
     "enableClassGraph": false,
     "useClassLoader": false
   },
+  "accessibilitySettings": {
+    "languageId": "en_us",
+    "stripTranslationColors": false,
+    "stripTranslationFormatting": false,
+    "stripExtraGuiElements": false,
+    "configKeyCode": 96
+  },
   "displaySettings": {
     "presenceData": {
       "enabled": true,
@@ -127,9 +137,7 @@
         }
       }
     },
-    "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png"
-    },
+    "dynamicIcons": {},
     "dynamicVariables": {
       "default": "Example Text",
       "mods": "{general.mods} Mod(s)",
