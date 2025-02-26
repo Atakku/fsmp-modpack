@@ -435,6 +435,10 @@ file = "mods/content/hex-casting/hexcellular.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/hex-casting/hexical.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/hex-casting/hextweaks.pw.toml"
 metafile = true
 
@@ -660,10 +664,6 @@ metafile = true
 
 [[files]]
 file = "mods/custom/fsmp-worldgen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/euphoria-patches.pw.toml"
 metafile = true
 
 [[files]]
@@ -1183,6 +1183,14 @@ file = "mods/tweaks/gameplay/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/accessories-tc-layer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/accessories.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/ae2-mousetweaks-fix.pw.toml"
 metafile = true
 
@@ -1248,10 +1256,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/tooltipfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gui/trinkets.pw.toml"
 metafile = true
 
 [[files]]
@@ -1408,6 +1412,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/euphoria-patches.pw.toml"
 metafile = true
 
 [[files]]

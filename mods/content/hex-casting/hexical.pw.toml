@@ -1,0 +1,13 @@
+name = "Hexical"
+filename = "hexical-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xWqLqLJ4/versions/59F5AzXt/hexical-1.5.0.jar"
+hash-format = "sha1"
+hash = "b1f59b347099ffef93540f4cafd532017858eeaa"
+
+[update]
+[update.modrinth]
+mod-id = "xWqLqLJ4"
+version = "59F5AzXt"
