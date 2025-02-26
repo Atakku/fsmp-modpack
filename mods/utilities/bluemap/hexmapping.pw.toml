@@ -3,11 +3,11 @@ filename = "hexmapping-fabric-1.20.1-0.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/be6NQmwM/versions/L1Zse8WC/hexmapping-fabric-1.20.1-0.0.3.jar"
+url = "https://cdn.modrinth.com/data/be6NQmwM/versions/CUi685Um/hexmapping-fabric-1.20.1-0.0.3.jar"
 hash-format = "sha1"
-hash = "e0bb907f2d06c77d6eb633189f1bc0bed11759db"
+hash = "46fdd67f2b5b5071f5fccd5d0952b28727b62aa4"
 
 [update]
 [update.modrinth]
 mod-id = "be6NQmwM"
-version = "L1Zse8WC"
+version = "CUi685Um"
