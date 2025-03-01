@@ -1627,13 +1627,16 @@ file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "schematics/bare_passenger_station.nbt"
+
+[[files]]
 file = "schematics/cross_intersection.nbt"
 
 [[files]]
-file = "schematics/new_passenger_station.nbt"
+file = "schematics/ground_passenger_station.nbt.nbt"
 
 [[files]]
-file = "schematics/old_passenger_station.nbt"
+file = "schematics/outdated_passenger_station.nbt"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
