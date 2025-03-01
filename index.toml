@@ -1633,7 +1633,7 @@ file = "schematics/bare_passenger_station.nbt"
 file = "schematics/cross_intersection.nbt"
 
 [[files]]
-file = "schematics/ground_passenger_station.nbt.nbt"
+file = "schematics/ground_passenger_station.nbt"
 
 [[files]]
 file = "schematics/outdated_passenger_station.nbt"
