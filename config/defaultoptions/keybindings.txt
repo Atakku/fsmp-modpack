@@ -42,5 +42,5 @@ key_gui.xaero_waypoints_key:key.keyboard.unknown:NONE
 key_gui.xaero_instant_waypoint:key.keyboard.unknown:NONE
 key_gui.xaero_pac_key_open_menu:key.keyboard.delete:NONE
 key_key.hexical.open_hexbook:key.keyboard.r:NONE
-key_key.hexical.evoke:key.keyboard.t:NONE
+key_key.hexical.evoke:key.keyboard.g:NONE
 key_key.hexical.telepathy:key.keyboard.unknown:NONE
