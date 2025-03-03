@@ -1035,6 +1035,10 @@ file = "mods/tweaks/gameplay/door-knocking.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/double-doors.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/elytrabombing.pw.toml"
 metafile = true
 
