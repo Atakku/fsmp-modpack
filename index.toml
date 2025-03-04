@@ -1659,6 +1659,10 @@ file = "shaderpacks/emoji-like-shader.pw.toml"
 metafile = true
 
 [[files]]
+file = "shaderpacks/hysteria-shaders.pw.toml"
+metafile = true
+
+[[files]]
 file = "shaderpacks/ink-shader.pw.toml"
 metafile = true
 
