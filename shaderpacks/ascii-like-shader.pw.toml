@@ -1,0 +1,13 @@
+name = "Ascii like shader"
+filename = "AsciiShader v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/K5CUBBea/versions/57TLlHUW/AsciiShader%20v1.1.zip"
+hash-format = "sha1"
+hash = "967b617be95a58d3bb1529619b4ddc4a1b84b0e0"
+
+[update]
+[update.modrinth]
+mod-id = "K5CUBBea"
+version = "57TLlHUW"

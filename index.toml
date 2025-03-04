@@ -1643,6 +1643,10 @@ file = "schematics/ground_passenger_station.nbt"
 file = "schematics/outdated_passenger_station.nbt"
 
 [[files]]
+file = "shaderpacks/ascii-like-shader.pw.toml"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 metafile = true
 
@@ -1651,7 +1655,27 @@ file = "shaderpacks/complementary-unbound.pw.toml"
 metafile = true
 
 [[files]]
+file = "shaderpacks/emoji-like-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ink-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/lethal-shaders.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/psx-shader.pw.toml"
+metafile = true
+
+[[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vector.pw.toml"
 metafile = true
 
 [[files]]
