@@ -583,10 +583,6 @@ file = "mods/content/other/exposure.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/other/immersive-melodies.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/other/joy-of-painting.pw.toml"
 metafile = true
 
@@ -604,6 +600,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/music-maker-mod.pw.toml"
 metafile = true
 
 [[files]]
