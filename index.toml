@@ -1419,7 +1419,8 @@ file = "mods/tweaks/visual/bettergrassify.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/visual/distanthorizons-server.toml"
+file = "mods/tweaks/visual/distanthorizons-server.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
