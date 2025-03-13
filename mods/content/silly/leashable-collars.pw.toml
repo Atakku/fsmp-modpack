@@ -1,13 +1,13 @@
 name = "Leashable Collars"
-filename = "PlayerCollars-1.2.8-fabric-1.20.jar"
+filename = "PlayerCollars-1.2.9+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E1XS8bXN/versions/dDRsEt14/PlayerCollars-1.2.8-fabric-1.20.jar"
+url = "https://cdn.modrinth.com/data/E1XS8bXN/versions/aEV77Qp6/PlayerCollars-1.2.9%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "1e046198230b50ebd1ba15e87f7ea1e7b0f6feed"
+hash = "7270b3900ec91a148007a4bbcb8a14c93474c70c"
 
 [update]
 [update.modrinth]
 mod-id = "E1XS8bXN"
-version = "dDRsEt14"
+version = "aEV77Qp6"
