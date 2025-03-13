@@ -1407,10 +1407,6 @@ file = "mods/tweaks/visual/ambient-environment.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/visual/astrocraft.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/visual/better-end-sky.pw.toml"
 metafile = true
 
