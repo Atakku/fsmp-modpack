@@ -1,18 +1,18 @@
 name = "LambDynamicLights"
-filename = "lambdynamiclights-2.3.2+1.20.1.jar"
+filename = "lambdynamiclights-4.1.0+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yBW8D80W/versions/mYl4RvKg/lambdynamiclights-2.3.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/yBW8D80W/versions/B4DKgMlC/lambdynamiclights-4.1.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "71b636fa74744e51ba2d248c81a38bdbfad5d43b"
+hash = "e385ecf0d6b96e4c8409244f9972e8f4e46c62e2"
 
 [update]
 [update.modrinth]
 mod-id = "yBW8D80W"
-version = "mYl4RvKg"
+version = "B4DKgMlC"
 
 [option]
 optional = true
-default = true
 description = "Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod for Fabric."
+default = true

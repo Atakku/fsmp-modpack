@@ -1,13 +1,13 @@
 name = "Fright's Delight"
-filename = "frightsdelight-fabric-1.20.1-1.2.2.jar"
+filename = "frightsdelight-fabric-1.20.1-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/awWvXlb2/versions/X6jr9vxA/frightsdelight-fabric-1.20.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/awWvXlb2/versions/uCihC47J/frightsdelight-fabric-1.20.1-1.3.1.jar"
 hash-format = "sha1"
-hash = "d88ad8a10d6c40cb0425aa13b1e7df7b6850bb43"
+hash = "3822e0ded96267d024f30981aeee3fb2a080ea81"
 
 [update]
 [update.modrinth]
 mod-id = "awWvXlb2"
-version = "X6jr9vxA"
+version = "uCihC47J"
