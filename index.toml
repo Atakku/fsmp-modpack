@@ -675,6 +675,10 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/embeddedcomputer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
@@ -936,6 +940,14 @@ metafile = true
 
 [[files]]
 file = "mods/performance/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tramways.pw.toml"
 metafile = true
 
 [[files]]
