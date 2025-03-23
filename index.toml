@@ -284,7 +284,7 @@ file = "mods/content/computer-craft/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/_create-pantographs-and-wire.toml"
+file = "mods/content/create/_create-dynamic-lights.toml"
 
 [[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
@@ -323,10 +323,6 @@ file = "mods/content/create/create-deco.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/create-dynamic-lights.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/create-enchantment-industry-fabric.pw.toml"
 metafile = true
 
@@ -336,6 +332,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-food.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-pantographs-and-wire.pw.toml"
 metafile = true
 
 [[files]]
