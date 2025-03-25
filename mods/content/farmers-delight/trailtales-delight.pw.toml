@@ -1,0 +1,13 @@
+name = "Trail&Tales Delight"
+filename = "trailandtales_delight-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Koee7vhY/versions/swLGrrMA/trailandtales_delight-1.0.jar"
+hash-format = "sha1"
+hash = "af98d8e352b75b313412fc6bc7de0ed7e729d6eb"
+
+[update]
+[update.modrinth]
+mod-id = "Koee7vhY"
+version = "swLGrrMA"
