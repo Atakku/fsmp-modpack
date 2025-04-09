@@ -1,0 +1,13 @@
+name = "Hextrogen"
+filename = "hextrogen-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m2lYRdre/versions/juJQAmj2/hextrogen-1.1.0.jar"
+hash-format = "sha1"
+hash = "b2afae7e15063ef1ac8f7f2513ea1f91de3606bb"
+
+[update]
+[update.modrinth]
+mod-id = "m2lYRdre"
+version = "juJQAmj2"

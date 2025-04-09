@@ -1,13 +1,13 @@
 name = "Inline"
-filename = "inline-fabric-1.20.1-1.1.0.jar"
+filename = "inline-fabric-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fin1PX4m/versions/k0AwWumU/inline-fabric-1.20.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/fin1PX4m/versions/oUAVXW1N/inline-fabric-1.20.1-1.1.1.jar"
 hash-format = "sha1"
-hash = "af4961f2e7dd9bfda4626a7aa14dad1781f7cbbd"
+hash = "bfc90f882d07f5d228b8f9e9b9d08caf54d61789"
 
 [update]
 [update.modrinth]
 mod-id = "fin1PX4m"
-version = "k0AwWumU"
+version = "oUAVXW1N"

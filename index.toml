@@ -291,6 +291,9 @@ file = "mods/content/computer-craft/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/_create-dreams-and-desires.toml"
+
+[[files]]
 file = "mods/content/create/_create-dynamic-lights.toml"
 
 [[files]]
@@ -327,10 +330,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-deco.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/create/create-dreams-and-desires.pw.toml"
 metafile = true
 
 [[files]]
@@ -450,6 +449,14 @@ file = "mods/content/farmers-delight/ubes-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/hex-casting/complex-hex.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/help-from-hexxy.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/hex-casting/hex-casting.pw.toml"
 metafile = true
 
@@ -467,6 +474,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/hex-casting/hexical.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hextrogen.pw.toml"
 metafile = true
 
 [[files]]
