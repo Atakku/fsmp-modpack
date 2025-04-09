@@ -5,7 +5,7 @@ file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/craftminefix.pw.toml"
+file = "mods/craftmine-fixes.pw.toml"
 metafile = true
 
 [[files]]

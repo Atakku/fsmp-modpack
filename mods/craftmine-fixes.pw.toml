@@ -1,0 +1,13 @@
+name = "25w14craftmine Bug Fixes"
+filename = "craftmine-fixes-0.14.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lbZmE2uR/versions/RCP2Xpag/craftmine-fixes-0.14.jar"
+hash-format = "sha1"
+hash = "54723455577df3edb55a01efc50feada9b231bc5"
+
+[update]
+[update.modrinth]
+mod-id = "lbZmE2uR"
+version = "RCP2Xpag"
