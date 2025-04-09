@@ -1,0 +1,13 @@
+name = "CraftPresence"
+filename = "CraftPresence-Staging-2.5.4+25w14craftmine-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/rVcWRXaC/CraftPresence-Staging-2.5.4%2B25w14craftmine-fabric.jar"
+hash-format = "sha1"
+hash = "5d2bff0467c6acda6f37f4a1caf88121c590adbb"
+
+[update]
+[update.modrinth]
+mod-id = "DFqQfIBR"
+version = "rVcWRXaC"

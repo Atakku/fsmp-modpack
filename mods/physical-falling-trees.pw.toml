@@ -1,0 +1,13 @@
+name = "Physical Falling Trees"
+filename = "physical-falling-trees-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lex0Jv5I/versions/Sj5ajF7l/physical-falling-trees-2.3.jar"
+hash-format = "sha1"
+hash = "7aec2fdab043fbb586c27155d38eb3a21ed9c0e6"
+
+[update]
+[update.modrinth]
+mod-id = "Lex0Jv5I"
+version = "Sj5ajF7l"

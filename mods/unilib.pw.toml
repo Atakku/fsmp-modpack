@@ -1,0 +1,13 @@
+name = "UniLib"
+filename = "UniLib-Staging-1.0.5+25w14craftmine-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/70hgTi7w/UniLib-Staging-1.0.5%2B25w14craftmine-fabric.jar"
+hash-format = "sha1"
+hash = "49a63721d35bde327125bbf462e7d4749c313a66"
+
+[update]
+[update.modrinth]
+mod-id = "nT86WUER"
+version = "70hgTi7w"
