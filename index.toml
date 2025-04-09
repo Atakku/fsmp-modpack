@@ -1,6 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.json"
+
+[[files]]
+file = "config/vivecraft-client-config.json"
+preserve = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
@@ -47,3 +54,6 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 metafile = true
+
+[[files]]
+file = "servers.dat"
