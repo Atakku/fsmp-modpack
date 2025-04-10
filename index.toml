@@ -40,10 +40,6 @@ file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/physical-falling-trees.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 metafile = true
 
