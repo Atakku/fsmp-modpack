@@ -32,7 +32,15 @@ file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
