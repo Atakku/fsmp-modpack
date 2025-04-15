@@ -20,6 +20,10 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 metafile = true
 
@@ -45,6 +49,10 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
 metafile = true
 
 [[files]]
