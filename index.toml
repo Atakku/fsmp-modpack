@@ -4,6 +4,10 @@ hash-format = "sha256"
 file = "config/craftpresence.json"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
@@ -24,47 +28,31 @@ file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
-file = "oldmods/c2me-fabric.pw.toml"
+file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "oldmods/craftpresence.pw.toml"
+file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
-file = "oldmods/exchange-value-tracker.pw.toml"
+file = "mods/sound.pw.toml"
 metafile = true
 
 [[files]]
-file = "oldmods/fabric-api.pw.toml"
+file = "mods/yacl.pw.toml"
 metafile = true
 
 [[files]]
-file = "oldmods/jade.pw.toml"
-metafile = true
-
-[[files]]
-file = "oldmods/journeymap.pw.toml"
-metafile = true
-
-[[files]]
-file = "oldmods/lambdynamiclights.pw.toml"
-metafile = true
-
-[[files]]
-file = "oldmods/simple-voice-chat.pw.toml"
-metafile = true
-
-[[files]]
-file = "oldmods/unilib.pw.toml"
-metafile = true
-
-[[files]]
-file = "oldmods/vivecraft.pw.toml"
+file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]
