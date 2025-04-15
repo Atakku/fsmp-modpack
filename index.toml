@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/craftpresence.json"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/exchange-value-tracker.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/journeymap.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/unilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "oldmods/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "servers.dat"
