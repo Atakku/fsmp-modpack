@@ -1,0 +1,13 @@
+name = "No Caves"
+filename = "no-caves-v1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZ30Htz0/versions/zy1QoJLu/no-caves-v1.1.jar"
+hash-format = "sha1"
+hash = "f06ace97e89373e359b905b971f65051caa8e95e"
+
+[update]
+[update.modrinth]
+mod-id = "uZ30Htz0"
+version = "zy1QoJLu"

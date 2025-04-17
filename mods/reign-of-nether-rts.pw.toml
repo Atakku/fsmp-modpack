@@ -1,0 +1,13 @@
+name = "Reign of Nether RTS"
+filename = "reignofnether-1.1.5a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FdbVHPk2/versions/UqX25GaG/reignofnether-1.1.5a.jar"
+hash-format = "sha1"
+hash = "10c34037d82167715449e6125d977d83356ebb45"
+
+[update]
+[update.modrinth]
+mod-id = "FdbVHPk2"
+version = "UqX25GaG"

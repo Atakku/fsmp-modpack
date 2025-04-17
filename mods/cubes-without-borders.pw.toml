@@ -1,0 +1,13 @@
+name = "Cubes Without Borders"
+filename = "cwb-forge-3.0.0+mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/QzVMYIfG/cwb-forge-3.0.0%2Bmc1.20.jar"
+hash-format = "sha1"
+hash = "f13cdf747b7f97a27f0a365f8390a72e3ea5fe99"
+
+[update]
+[update.modrinth]
+mod-id = "ETlrkaYF"
+version = "QzVMYIfG"

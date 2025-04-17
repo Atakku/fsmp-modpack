@@ -1,0 +1,13 @@
+name = "Epoch"
+filename = "Epoch_Shader_v1.3.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IsJZJfNT/versions/69ki86C5/Epoch_Shader_v1.3.3.zip"
+hash-format = "sha1"
+hash = "5783805f9fcbbd543a20ea884eeccc9c8d7f85b9"
+
+[update]
+[update.modrinth]
+mod-id = "IsJZJfNT"
+version = "69ki86C5"

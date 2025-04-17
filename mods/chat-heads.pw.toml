@@ -1,0 +1,13 @@
+name = "Chat Heads"
+filename = "chat_heads-0.13.17-forge-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/UrstGMbf/chat_heads-0.13.17-forge-1.20.jar"
+hash-format = "sha1"
+hash = "f7c16bd0a456bf1d0d06ac9b39e6da55e219749d"
+
+[update]
+[update.modrinth]
+mod-id = "Wb5oqrBJ"
+version = "UrstGMbf"
