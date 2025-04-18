@@ -293,3 +293,43 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
+
+[[files]]
+file = "shaderpacks/ascii-like-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/emoji-like-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/hysteria-shaders.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ink-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/lethal-shaders.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/psx-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vector.pw.toml"
+metafile = true

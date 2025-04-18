@@ -1,0 +1,13 @@
+name = "Hysteria Shaders"
+filename = "Hysteria-Shaders-Universal-v1.2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iHC8BZn4/versions/u7oNAXa5/Hysteria-Shaders-Universal-v1.2.1.zip"
+hash-format = "sha1"
+hash = "9831e55480e806139b316701abfbecab517fdc95"
+
+[update]
+[update.modrinth]
+mod-id = "iHC8BZn4"
+version = "u7oNAXa5"

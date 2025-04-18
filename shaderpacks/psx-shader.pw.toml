@@ -1,0 +1,13 @@
+name = "PSX Shader"
+filename = "PSX_Shader.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5FTpbyBl/versions/z6WyqZok/PSX_Shader.zip"
+hash-format = "sha1"
+hash = "25564b6b11c6298e37f29663973d0c1cc743e6da"
+
+[update]
+[update.modrinth]
+mod-id = "5FTpbyBl"
+version = "z6WyqZok"

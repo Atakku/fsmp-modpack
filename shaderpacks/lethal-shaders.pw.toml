@@ -1,0 +1,13 @@
+name = "Lethal Shaders"
+filename = "LethalShaders.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kih5VmNo/versions/IkDUL8uy/LethalShaders.zip"
+hash-format = "sha1"
+hash = "5189ffa7f8b78f4f2678ff72c2f80ec161c3b799"
+
+[update]
+[update.modrinth]
+mod-id = "kih5VmNo"
+version = "IkDUL8uy"
