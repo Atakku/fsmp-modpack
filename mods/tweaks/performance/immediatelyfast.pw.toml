@@ -1,0 +1,18 @@
+name = "ImmediatelyFast"
+filename = "ImmediatelyFast-Fabric-1.8.0+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/ddjmgf0b/ImmediatelyFast-Fabric-1.8.0%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "c18647140192d2f1eb5b09390ea5cabe0e0e1681"
+
+[update]
+[update.modrinth]
+mod-id = "5ZwdcRci"
+version = "ddjmgf0b"
+
+[option]
+optional = true
+description = "Speed up immediate mode rendering in Minecraft"
+default = true

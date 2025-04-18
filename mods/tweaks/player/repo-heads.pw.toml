@@ -1,0 +1,13 @@
+name = "REPO Heads"
+filename = "repo-heads-1.0.0+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jaoe8qGe/versions/rMvnZuma/repo-heads-1.0.0%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "c2684ea96fa1ab67861e170bf12fba41b72a580e"
+
+[update]
+[update.modrinth]
+mod-id = "Jaoe8qGe"
+version = "rMvnZuma"

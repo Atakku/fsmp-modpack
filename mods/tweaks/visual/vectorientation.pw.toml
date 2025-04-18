@@ -1,0 +1,18 @@
+name = "Vectorientation"
+filename = "vectorientation-1.1-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NpPKJQg6/versions/qqmLGTLf/vectorientation-1.1-1.21.4.jar"
+hash-format = "sha1"
+hash = "d4f4c855ab66050e2e42118978140105cc533ec0"
+
+[update]
+[update.modrinth]
+mod-id = "NpPKJQg6"
+version = "qqmLGTLf"
+
+[option]
+optional = true
+description = "Rotates falling blocks in towards where they're heading, with configurable squash & stretch"
+default = true

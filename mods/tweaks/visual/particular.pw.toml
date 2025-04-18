@@ -1,0 +1,13 @@
+name = "Particular ✨"
+filename = "particular-1.1.1+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1CcCd9h/versions/RH15lm72/particular-1.1.1%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "d2ef0a207bd186603f7521ef84deac2bc8e27a5b"
+
+[update]
+[update.modrinth]
+mod-id = "B1CcCd9h"
+version = "RH15lm72"

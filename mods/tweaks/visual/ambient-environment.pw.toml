@@ -1,0 +1,18 @@
+name = "Ambient Environment"
+filename = "AmbientEnvironment-fabric-1.21.4-21.0.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/sXv5bJc5/AmbientEnvironment-fabric-1.21.4-21.0.0.3.jar"
+hash-format = "sha1"
+hash = "930dc97455f06db2570bcce750da7f4ff569bb31"
+
+[update]
+[update.modrinth]
+mod-id = "DyTvM1dv"
+version = "sXv5bJc5"
+
+[option]
+optional = true
+description = "This mod adds ambient color noise to the biome colors of the game. This means that things like grass, water, and leaves will have very subtle differences in color based on where they are in the world. This noise helps the world seem more varied and alive. This is based on a similar feature from the Bedrock version of the game."
+default = true

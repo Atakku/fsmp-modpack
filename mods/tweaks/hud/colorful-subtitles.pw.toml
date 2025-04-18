@@ -1,0 +1,13 @@
+name = "Colorful Subtitles"
+filename = "colorfulsubtitles-1.6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tio7pobN/versions/daztYWvt/colorfulsubtitles-1.6.0.jar"
+hash-format = "sha1"
+hash = "fc08e040b15c6238bf6112ffcdceb4c49d6b9e25"
+
+[update]
+[update.modrinth]
+mod-id = "Tio7pobN"
+version = "daztYWvt"

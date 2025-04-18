@@ -1,0 +1,13 @@
+name = "Hide Experimental Warning"
+filename = "hideexperimentalwarning-1.21.4-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rm4OOdHd/versions/TEscz3rE/hideexperimentalwarning-1.21.4-1.2.jar"
+hash-format = "sha1"
+hash = "a5c5131e9d3a6e97471440864cb384808a2e9859"
+
+[update]
+[update.modrinth]
+mod-id = "Rm4OOdHd"
+version = "TEscz3rE"

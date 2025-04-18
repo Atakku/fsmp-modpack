@@ -1,0 +1,13 @@
+name = "Screencopy"
+filename = "screenshotcopy-fabric-1.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aru7gAyl/versions/TX8oYVcl/screenshotcopy-fabric-1.2.4.jar"
+hash-format = "sha1"
+hash = "08973e40730275ffc498d9677fdc9f93df210b27"
+
+[update]
+[update.modrinth]
+mod-id = "aru7gAyl"
+version = "TX8oYVcl"

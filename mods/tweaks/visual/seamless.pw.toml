@@ -1,0 +1,18 @@
+name = "Seamless"
+filename = "seamless-2.3.2-fabric-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rhyHyQke/versions/qN028owP/seamless-2.3.2-fabric-1.21.4.jar"
+hash-format = "sha1"
+hash = "bb01160b2d037e62ed9d2a16078e86441e27d444"
+
+[update]
+[update.modrinth]
+mod-id = "rhyHyQke"
+version = "qN028owP"
+
+[option]
+optional = true
+description = "Connected outlines for Double Blocks like Beds and Doors!"
+default = true

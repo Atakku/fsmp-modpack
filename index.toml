@@ -4,71 +4,291 @@ hash-format = "sha256"
 file = "config/craftpresence.json"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
+file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
+file = "mods/libraries/entity-model-features.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
+file = "mods/libraries/entitytexturefeatures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
+file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
+file = "mods/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
+file = "mods/tweaks/audio/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
+file = "mods/tweaks/audio/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
+file = "mods/tweaks/audio/sound.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mru.pw.toml"
+file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/placeholder-api.pw.toml"
+file = "mods/tweaks/gameplay/double-doors.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
+file = "mods/tweaks/gameplay/ksyxis.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
+file = "mods/tweaks/gameplay/morechathistory.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
+file = "mods/tweaks/gameplay/no-chat-clear.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sound.pw.toml"
+file = "mods/tweaks/gameplay/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/unilib.pw.toml"
+file = "mods/tweaks/gameplay/no-telemetry.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/yacl.pw.toml"
+file = "mods/tweaks/gameplay/packet-fixer.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
+file = "mods/tweaks/gameplay/screencopy.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/zoomify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/titlebar-changer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/better-ping-display-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/betterf3.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/chatimage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/colorful-subtitles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/now-playing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/status-effect-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/auth-me.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/better-stats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/disable-accessibility-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/hide-experimental-warning.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/no-resource-pack-warnings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/adaptiveview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/bobby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/gputape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/language-reload.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/performance/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/repo-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/wavey-capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/bettergrassify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/euphoria-patches.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/explosive-enhancement.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/particular.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/seamless.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/vectorientation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/voice/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/voice/voice-chat-interaction.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/voice/voicechat-soundboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/spark.pw.toml"
 metafile = true
 
 [[files]]

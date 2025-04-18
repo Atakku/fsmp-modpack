@@ -1,0 +1,13 @@
+name = "Voice Chat Soundboard"
+filename = "svc-soundboard-0.7.2+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N8s60DWW/versions/Nqb4SaIL/svc-soundboard-0.7.2%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "39ec8980c434d85a800156da9401a4ce20df3325"
+
+[update]
+[update.modrinth]
+mod-id = "N8s60DWW"
+version = "Nqb4SaIL"
