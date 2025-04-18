@@ -36,15 +36,11 @@ file = "mods/libraries/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libraries/konkrete.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/libraries/melody.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/mru.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
