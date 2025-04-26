@@ -8,10 +8,6 @@ file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libraries/cicada.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 
@@ -69,10 +65,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/audio/sound.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
