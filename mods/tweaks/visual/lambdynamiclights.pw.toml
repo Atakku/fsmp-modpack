@@ -11,8 +11,3 @@ hash = "4b117409f4ea0fe256a60b59481095e61cae4cb4"
 [update.modrinth]
 mod-id = "yBW8D80W"
 version = "UPiFwTHO"
-
-[option]
-optional = true
-description = "Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod for Fabric."
-default = true

@@ -11,8 +11,3 @@ hash = "38c2adf216e88d4a91bf1b55fee9c8eaa208e70d"
 [update.modrinth]
 mod-id = "OSQ8mw2r"
 version = "uENUGvIY"
-
-[option]
-optional = true
-description = "Makes the explosion animation look cooler."
-default = true

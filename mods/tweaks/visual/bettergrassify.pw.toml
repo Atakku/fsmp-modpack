@@ -11,8 +11,3 @@ hash = "2f3f111dd896e45419a703549856feda7b4b214f"
 [update.modrinth]
 mod-id = "m5T5xmUy"
 version = "Is0HRoQH"
-
-[option]
-optional = true
-description = "Gamers can finally touch grass!? OptiFine's Fancy and Fast better grass implemented on Fabric and NeoForge!"
-default = true

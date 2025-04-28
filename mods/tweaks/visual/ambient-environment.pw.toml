@@ -11,8 +11,3 @@ hash = "723bdbff61a6053f2a783bb51276c1613751f381"
 [update.modrinth]
 mod-id = "DyTvM1dv"
 version = "qIUps4k4"
-
-[option]
-optional = true
-description = "This mod adds ambient color noise to the biome colors of the game. This means that things like grass, water, and leaves will have very subtle differences in color based on where they are in the world. This noise helps the world seem more varied and alive. This is based on a similar feature from the Bedrock version of the game."
-default = true

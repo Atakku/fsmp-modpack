@@ -16,14 +16,6 @@ file = "mods/libraries/collective.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libraries/entity-model-features.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/libraries/entitytexturefeatures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
@@ -33,10 +25,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/mru.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/libraries/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -53,6 +41,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
 metafile = true
 
 [[files]]
@@ -88,14 +80,6 @@ file = "mods/tweaks/gameplay/zoomify.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/gui/cubes-without-borders.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gui/darktitlebar.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/hud/appleskin.pw.toml"
 metafile = true
 
@@ -128,10 +112,6 @@ file = "mods/tweaks/hud/status-effect-bars.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/menu/auth-me.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/menu/better-stats.pw.toml"
 metafile = true
 
@@ -141,6 +121,14 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/menu/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/darktitlebar.pw.toml"
 metafile = true
 
 [[files]]
@@ -204,23 +192,15 @@ file = "mods/tweaks/performance/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/player/capes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/player/repo-heads.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/player/wavey-capes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/visual/ambient-environment.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/bettergrassify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/capes.pw.toml"
 metafile = true
 
 [[files]]
@@ -244,11 +224,15 @@ file = "mods/tweaks/visual/seamless.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/visual/vectorientation.pw.toml"
+file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/visual/visuality.pw.toml"
+file = "mods/tweaks/visual/wavey-capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/voice/repo-heads.pw.toml"
 metafile = true
 
 [[files]]
@@ -257,10 +241,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/voice/voice-chat-interaction.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/spark.pw.toml"
 metafile = true
 
 [[files]]

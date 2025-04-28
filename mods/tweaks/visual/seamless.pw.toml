@@ -11,8 +11,3 @@ hash = "bb01160b2d037e62ed9d2a16078e86441e27d444"
 [update.modrinth]
 mod-id = "rhyHyQke"
 version = "qN028owP"
-
-[option]
-optional = true
-description = "Connected outlines for Double Blocks like Beds and Doors!"
-default = true
