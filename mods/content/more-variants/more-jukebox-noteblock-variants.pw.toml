@@ -1,13 +1,13 @@
 name = "More Jukebox/Noteblock Variants"
-filename = "MoreJukeboxNoteblockVariants-1.0.2+1.20.1-Fabric.jar"
+filename = "MoreJukeboxNoteblockVariants-1.1.1+1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CLgavC7x/versions/c6AbH1Fa/MoreJukeboxNoteblockVariants-1.0.2%2B1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/CLgavC7x/versions/HzIzusH0/MoreJukeboxNoteblockVariants-1.1.1%2B1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "8db6aa14c2de6b4ffddb3f40f88a51fb32f0fcc0"
+hash = "63517b829245900e2d03a8f4c516c87420f325ba"
 
 [update]
 [update.modrinth]
 mod-id = "CLgavC7x"
-version = "c6AbH1Fa"
+version = "HzIzusH0"
