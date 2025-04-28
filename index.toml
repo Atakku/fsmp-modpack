@@ -84,10 +84,6 @@ file = "mods/tweaks/gameplay/no-telemetry.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/gameplay/screencopy.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/gameplay/zoomify.pw.toml"
 metafile = true
 
@@ -96,15 +92,11 @@ file = "mods/tweaks/gui/cubes-without-borders.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/gui/titlebar-changer.pw.toml"
+file = "mods/tweaks/gui/darktitlebar.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/appleskin.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/hud/better-ping-display-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -129,6 +121,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/now-playing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/numeral-ping.pw.toml"
 metafile = true
 
 [[files]]
@@ -204,10 +200,6 @@ file = "mods/tweaks/performance/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/performance/modernfix.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/performance/moreculling.pw.toml"
 metafile = true
 
@@ -256,10 +248,6 @@ file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/visual/particular.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/visual/seamless.pw.toml"
 metafile = true
 
@@ -277,10 +265,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/voice/voice-chat-interaction.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/voice/voicechat-soundboard.pw.toml"
 metafile = true
 
 [[files]]
@@ -304,14 +288,6 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/emoji-like-shader.pw.toml"
-metafile = true
-
-[[files]]
-file = "shaderpacks/hysteria-shaders.pw.toml"
-metafile = true
-
-[[files]]
-file = "shaderpacks/ink-shader.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Numeral Ping"
+filename = "numeralping-1.2.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XLd8Sh64/versions/Yxvc0NGy/numeralping-1.2.6.jar"
+hash-format = "sha1"
+hash = "9f9db14464840a98ff313cfa27848760e909806a"
+
+[update]
+[update.modrinth]
+mod-id = "XLd8Sh64"
+version = "Yxvc0NGy"

@@ -1,13 +1,13 @@
 name = "Disable Accessibility Screen"
-filename = "DisableAccessibilityScreen-1.1.0+1.21.4.jar"
+filename = "DisableAccessibilityScreen-1.2.0+1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DohVVqgL/versions/xwAaYjSx/DisableAccessibilityScreen-1.1.0%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/DohVVqgL/versions/hTGEkkSe/DisableAccessibilityScreen-1.2.0%2B1.21.5.jar"
 hash-format = "sha1"
-hash = "5f955e381819a4d23a68ba8f3d830b8ea735fed0"
+hash = "7b803f7984e238c024aaf67d77f9ca431ab10180"
 
 [update]
 [update.modrinth]
 mod-id = "DohVVqgL"
-version = "xwAaYjSx"
+version = "hTGEkkSe"
