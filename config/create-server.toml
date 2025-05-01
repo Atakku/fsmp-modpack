@@ -6,6 +6,7 @@
 	maxTotalSchematicSize = 1024
 	maxSchematicPacketSize = 1024
 [trains]
+	trainsCauseDamage = false
 	maxTrackPlacementLength = 64
 	maxAssemblyLength = 128
 	[trains.trainStats]
