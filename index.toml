@@ -92,6 +92,10 @@ file = "mods/tweaks/hud/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/hud/chatimage.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/colorful-subtitles.pw.toml"
 metafile = true
 
