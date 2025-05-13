@@ -737,6 +737,10 @@ file = "mods/libraries/cardinal-components-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/carrasconlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cicada.pw.toml"
 metafile = true
 
