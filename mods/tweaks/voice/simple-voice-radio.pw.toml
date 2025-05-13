@@ -1,13 +1,13 @@
 name = "Simple Voice Radio"
-filename = "SimpleRadio-fabric-1.20.1-2.4.6.1.jar"
+filename = "simpleradio-fabric-1.20.1-3.4.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/jRK9rzce/SimpleRadio-fabric-1.20.1-2.4.6.1.jar"
+url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/vOLhMAVr/simpleradio-fabric-1.20.1-3.4.6.jar"
 hash-format = "sha1"
-hash = "ddd604beb542c4ffe648a14aecd1b3618d7d719e"
+hash = "fca217ebc7a3fb97a4225d9a4dcdd4b670950fcc"
 
 [update]
 [update.modrinth]
 mod-id = "S7b8mMXS"
-version = "jRK9rzce"
+version = "vOLhMAVr"
