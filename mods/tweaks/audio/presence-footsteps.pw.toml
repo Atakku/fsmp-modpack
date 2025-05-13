@@ -11,3 +11,7 @@ hash = "8f88195dea52509564fabc3dfac966b09290d905"
 [update.modrinth]
 mod-id = "rcTfTZr3"
 version = "k0t6DSmw"
+
+[option]
+optional = true
+default = true

@@ -11,3 +11,7 @@ hash = "1c713ab088c71082cfab392df602f45cdd6efbc0"
 [update.modrinth]
 mod-id = "XD7XOrAF"
 version = "oswQSU19"
+
+[option]
+optional = true
+default = true

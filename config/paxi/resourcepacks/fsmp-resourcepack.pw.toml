@@ -13,3 +13,7 @@ branch = "1.20.1"
 regex = "fsmp-resourcepack-.*\\.zip$"
 slug = "atakku/fsmp-datares"
 tag = "mc1.20.1/v0.3.3"
+
+[option]
+optional = true
+default = true

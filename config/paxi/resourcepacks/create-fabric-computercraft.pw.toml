@@ -11,3 +11,7 @@ hash = "e96719b331c5b1196e626fc6519420d00888434b"
 [update.modrinth]
 mod-id = "6Pe20w4f"
 version = "olwayfOB"
+
+[option]
+optional = true
+default = true

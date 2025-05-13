@@ -11,3 +11,7 @@ hash = "340bb1a8297bf856f50cbcbf3e4a53e4fb4c7342"
 [update.modrinth]
 mod-id = "wMkevcSR"
 version = "TmolU2Dw"
+
+[option]
+optional = true
+default = true

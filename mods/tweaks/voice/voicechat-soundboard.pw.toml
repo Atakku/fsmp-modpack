@@ -11,3 +11,7 @@ hash = "b77dc756913f82013877776f6bc5b0f07afd82e3"
 [update.modrinth]
 mod-id = "N8s60DWW"
 version = "NAGDqqt7"
+
+[option]
+optional = true
+default = true

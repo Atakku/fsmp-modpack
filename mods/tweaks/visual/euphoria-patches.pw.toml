@@ -11,3 +11,7 @@ hash = "b6532d1486a492dea20a1e093e2bc7832591e7c4"
 [update.modrinth]
 mod-id = "4H6sumDB"
 version = "PJtihtgM"
+
+[option]
+optional = true
+default = true

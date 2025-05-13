@@ -11,3 +11,7 @@ hash = "de704792c691e3d19316c87c21c9ad2bee6c66c3"
 [update.modrinth]
 mod-id = "2RKFTmiB"
 version = "B2L4LeMV"
+
+[option]
+optional = true
+default = true

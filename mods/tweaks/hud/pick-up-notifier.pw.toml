@@ -11,3 +11,7 @@ hash = "1b7884c545556c4b693353ed4cff64aa29d8eb9c"
 [update.modrinth]
 mod-id = "ZX66K16c"
 version = "sdb70E1E"
+
+[option]
+optional = true
+default = true

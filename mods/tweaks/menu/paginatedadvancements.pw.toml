@@ -11,3 +11,7 @@ hash = "d3709c29edca39a4d8c0d296c120adb376fd32af"
 [update.modrinth]
 mod-id = "pJogNFap"
 version = "pVtBmxB6"
+
+[option]
+optional = true
+default = true
