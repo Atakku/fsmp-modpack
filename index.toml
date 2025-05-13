@@ -128,6 +128,10 @@ file = "config/paxi/resourcepacks/fsmp-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/refined-cats.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/simple-create-radios.pw.toml"
 metafile = true
 
