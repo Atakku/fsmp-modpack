@@ -1,0 +1,9 @@
+[flavor_groups.minimap]
+name = "Minimap"
+description = "Which minimap do you prefer?"
+side = "client"
+
+[[flavor_groups.minimap.choices]]
+id = "minimap_xaero"
+name = "Xaero's Minimap"
+description = "The recommended choice"

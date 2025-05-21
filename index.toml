@@ -25,6 +25,10 @@ file = "mods/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-cc-total-logistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-central-kitchen.pw.toml"
 metafile = true
 
@@ -62,6 +66,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-sound-of-steam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-stock-bridge.pw.toml"
 metafile = true
 
 [[files]]
@@ -129,14 +137,6 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/hologram-panel.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/entity-model-features.pw.toml"
 metafile = true
 
@@ -150,6 +150,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/guideme.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
@@ -169,5 +173,16 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/hologram-panel.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
