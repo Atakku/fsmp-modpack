@@ -1,0 +1,13 @@
+name = "Ribbits"
+filename = "Ribbits-1.21.1-NeoForge-4.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8YcE8y4T/versions/YnhSxHsa/Ribbits-1.21.1-NeoForge-4.1.2.jar"
+hash-format = "sha1"
+hash = "3b19f9d342cbc7064132eb0bad4b2c38cfb2a34e"
+
+[update]
+[update.modrinth]
+mod-id = "8YcE8y4T"
+version = "YnhSxHsa"

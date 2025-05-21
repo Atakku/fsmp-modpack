@@ -1,0 +1,173 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/paxi/resourcepacks/refined-cats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-aquatic-ambitions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-central-kitchen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-dragons-plus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-encased.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-enchantment-industry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-integrated-farming.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-misc-and-things.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-power-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-railways-navigator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-sound-of-steam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-trading-floor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-vibrant-vaults.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/farmers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/ribbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/exposure-catalog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/joy-of-painting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/music-maker-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/straw-statues.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/moyai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries-squared.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hologram-panel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/guideme.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/paxi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/distanthorizons.pw.toml"
+metafile = true

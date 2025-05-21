@@ -1,0 +1,13 @@
+name = "Create: Misc and Things"
+filename = "create_things_and_misc-4.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWrs8XlB/versions/5pDtp9Ho/create_things_and_misc-4.0-neoforge-1.21.1.jar"
+hash-format = "sha1"
+hash = "158f4391c13aace00b87bad6b0ba31602904af09"
+
+[update]
+[update.modrinth]
+mod-id = "uWrs8XlB"
+version = "5pDtp9Ho"
