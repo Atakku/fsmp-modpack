@@ -137,11 +137,19 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/connector.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/entity-model-features.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/libraries/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/forgified-fabric-api.pw.toml"
 metafile = true
 
 [[files]]
