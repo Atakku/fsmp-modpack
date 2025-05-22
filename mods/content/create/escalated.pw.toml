@@ -1,0 +1,13 @@
+name = "Create: Escalated"
+filename = "escalated-1.0.4+create.6.0.4-mc.1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/rL79JOkA/escalated-1.0.4%2Bcreate.6.0.4-mc.1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "d824ecfd0bafa348519bdc65d2b262b51bf639b8"
+
+[update]
+[update.modrinth]
+mod-id = "LyOBYG8Q"
+version = "rL79JOkA"

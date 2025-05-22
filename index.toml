@@ -21,6 +21,10 @@ file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
@@ -41,11 +45,19 @@ file = "mods/content/create/create-encased.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-enchantable-machinery.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-enchantment-industry.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/create/create-integrated-farming.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-mechanical-spawner.pw.toml"
 metafile = true
 
 [[files]]
@@ -69,10 +81,6 @@ file = "mods/content/create/create-sound-of-steam.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/create-spawnerboxer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/create-stock-bridge.pw.toml"
 metafile = true
 
@@ -86,6 +94,14 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/direct-chute.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/escalated.pw.toml"
 metafile = true
 
 [[files]]
@@ -166,6 +182,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mechanicals-lib.pw.toml"
 metafile = true
 
 [[files]]
