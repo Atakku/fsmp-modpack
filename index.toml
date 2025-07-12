@@ -249,10 +249,6 @@ file = "mods/tweaks/emi/emi.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/hud/hologram-panel.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/knowlogy/exposure-knowlogy.pw.toml"
 metafile = true
 
