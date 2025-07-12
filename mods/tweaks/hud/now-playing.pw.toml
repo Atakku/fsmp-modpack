@@ -1,13 +1,13 @@
 name = "Now Playing"
-filename = "now-playing-fabric-1.5.14+1.21.5.jar"
+filename = "now-playing-fabric-1.5.15+1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/eNF4Bfla/versions/7MSMYuVO/now-playing-fabric-1.5.14%2B1.21.5.jar"
+url = "https://cdn.modrinth.com/data/eNF4Bfla/versions/fo7588ua/now-playing-fabric-1.5.15%2B1.21.5.jar"
 hash-format = "sha1"
-hash = "fcb288e94927b848b43f85053a34b363ded31906"
+hash = "882e9b9145142897a87d0009dfe0ec04c6f30b11"
 
 [update]
 [update.modrinth]
 mod-id = "eNF4Bfla"
-version = "7MSMYuVO"
+version = "fo7588ua"

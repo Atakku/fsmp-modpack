@@ -1,13 +1,13 @@
 name = "REPO Heads"
-filename = "repo-heads-1.1.0+1.21.5.jar"
+filename = "repo-heads-1.2.0+1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Jaoe8qGe/versions/P4oyHclx/repo-heads-1.1.0%2B1.21.5.jar"
+url = "https://cdn.modrinth.com/data/Jaoe8qGe/versions/O16BAJcl/repo-heads-1.2.0%2B1.21.5.jar"
 hash-format = "sha1"
-hash = "3f3c512f4d0f73f1fefda962b4ce009273bf1991"
+hash = "d5f96d924aba2c475ff33799fdd2177fe832f3bf"
 
 [update]
 [update.modrinth]
 mod-id = "Jaoe8qGe"
-version = "P4oyHclx"
+version = "O16BAJcl"
