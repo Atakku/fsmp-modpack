@@ -1,13 +1,13 @@
 name = "Refined Cats: Detailed"
-filename = "RefinedCatsDetailed_v2.1.6.zip"
+filename = "RefinedCatsDetailed_v2.1.7.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XzvZ8pqC/versions/vxfQDaNB/RefinedCatsDetailed_v2.1.6.zip"
+url = "https://cdn.modrinth.com/data/XzvZ8pqC/versions/dWIajEZN/RefinedCatsDetailed_v2.1.7.zip"
 hash-format = "sha1"
-hash = "a67ab5837933e2120ea4deb7ecb9d2580cbeee42"
+hash = "b0f40e3a3f230e93fa80b00530d0708b6fa807b0"
 
 [update]
 [update.modrinth]
 mod-id = "XzvZ8pqC"
-version = "vxfQDaNB"
+version = "dWIajEZN"

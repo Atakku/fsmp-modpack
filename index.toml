@@ -25,6 +25,10 @@ file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/blocks-bogies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
@@ -65,10 +69,6 @@ file = "mods/content/create/create-mechanical-spawner.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/create-misc-and-things.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/create-pattern-schematics.pw.toml"
 metafile = true
 
@@ -106,6 +106,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/escalated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/some-assembly-required.pw.toml"
 metafile = true
 
 [[files]]
