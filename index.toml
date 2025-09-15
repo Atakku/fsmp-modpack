@@ -5,6 +5,10 @@ file = "config/paxi/resourcepacks/refined-cats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/gregtechceu-modern.pw.toml"
 metafile = true
 
