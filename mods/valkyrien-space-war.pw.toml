@@ -1,0 +1,13 @@
+name = "Valkyrien Space War"
+filename = "valkyrien_space_war-0.6.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ws61xB67/versions/77a64ajM/valkyrien_space_war-0.6.11.jar"
+hash-format = "sha1"
+hash = "76f8236ac31a04dd814f5d1d33e48031bd67b56f"
+
+[update]
+[update.modrinth]
+mod-id = "ws61xB67"
+version = "77a64ajM"
