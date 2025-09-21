@@ -329,10 +329,6 @@ file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/player/figura.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/visual/bettergrassify.pw.toml"
 metafile = true
 
