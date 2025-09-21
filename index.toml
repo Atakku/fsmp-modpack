@@ -5,15 +5,15 @@ file = "config/paxi/resourcepacks/refined-cats.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/applied-energistics/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
@@ -70,6 +70,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/exposure/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -150,6 +154,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mimi.pw.toml"
 metafile = true
 
 [[files]]
