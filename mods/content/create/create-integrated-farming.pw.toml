@@ -1,0 +1,13 @@
+name = "Create: Integrated Farming"
+filename = "create-integrated-farming-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9k1pAsfR/versions/bAXRBciL/create-integrated-farming-1.1.1.jar"
+hash-format = "sha1"
+hash = "4a03486350e2c6ea8f3dc8bb2aee2b95a5c9cec3"
+
+[update]
+[update.modrinth]
+mod-id = "9k1pAsfR"
+version = "bAXRBciL"

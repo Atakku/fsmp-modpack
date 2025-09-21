@@ -1,0 +1,13 @@
+name = "Crawl"
+filename = "crawl-0.14.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H1JOVjhn/versions/AD7UZON8/crawl-0.14.9.jar"
+hash-format = "sha1"
+hash = "8a913cb5ef0f83721965db5b9013a21d069ef550"
+
+[update]
+[update.modrinth]
+mod-id = "H1JOVjhn"
+version = "AD7UZON8"

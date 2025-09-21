@@ -1,0 +1,13 @@
+name = "Patchouli"
+filename = "Patchouli-1.21.1-92-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/h6hKI2ob/Patchouli-1.21.1-92-NEOFORGE.jar"
+hash-format = "sha1"
+hash = "97ae42096ee4a0a242cd8468dde293017f3cc39c"
+
+[update]
+[update.modrinth]
+mod-id = "nU0bVIaL"
+version = "h6hKI2ob"

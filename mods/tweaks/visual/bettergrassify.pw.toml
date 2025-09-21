@@ -1,0 +1,13 @@
+name = "BetterGrassify"
+filename = "BetterGrassify-1.7.0+neoforge.1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/Rt96zVC1/BetterGrassify-1.7.0%2Bneoforge.1.21.1.jar"
+hash-format = "sha1"
+hash = "7cf1376b4cb66721cf4795d55eb5a88123591bae"
+
+[update]
+[update.modrinth]
+mod-id = "m5T5xmUy"
+version = "Rt96zVC1"
