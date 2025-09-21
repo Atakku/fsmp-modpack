@@ -49,6 +49,10 @@ file = "mods/content/create/create-integrated-farming.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-more-pipe-bombs-in-packages.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-pattern-schematics.pw.toml"
 metafile = true
 
@@ -78,6 +82,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/escalated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/hypertube.pw.toml"
 metafile = true
 
 [[files]]
@@ -221,6 +229,10 @@ file = "mods/performance/immediatelyfast.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/krypton-foxified.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/lithium.pw.toml"
 metafile = true
 
@@ -342,6 +354,34 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/bluemap/bluemap-offline-player-markers-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/bluemap/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/bluemap/create-track-map-fork.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/chunky.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaeros/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaeros/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]

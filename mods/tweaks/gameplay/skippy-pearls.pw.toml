@@ -1,6 +1,6 @@
 name = "Skippy Pearls"
 filename = "skippy-pearls-1.21.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/KM7gMSY1/versions/9aulJE9A/skippy-pearls-1.21.jar"

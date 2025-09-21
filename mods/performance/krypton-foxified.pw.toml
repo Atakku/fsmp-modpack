@@ -1,0 +1,13 @@
+name = "KryptonFoxified"
+filename = "KryptonFoxified-0.1.0+mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rmFH8I1v/versions/TFGMCLED/KryptonFoxified-0.1.0%2Bmc1.21.jar"
+hash-format = "sha1"
+hash = "b6912442dfb47b2cbcadb4085608636fced68af9"
+
+[update]
+[update.modrinth]
+mod-id = "rmFH8I1v"
+version = "TFGMCLED"

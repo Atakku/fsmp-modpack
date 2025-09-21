@@ -1,0 +1,13 @@
+name = "BlueMap"
+filename = "bluemap-5.7-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/8iJcPOHJ/bluemap-5.7-neoforge.jar"
+hash-format = "sha1"
+hash = "49675ada6be555e6f8393f49aff91750028e1239"
+
+[update]
+[update.modrinth]
+mod-id = "swbUV1cr"
+version = "8iJcPOHJ"
