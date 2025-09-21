@@ -21,6 +21,10 @@ file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/cccbridge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
@@ -165,6 +169,10 @@ file = "mods/libraries/connector.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/forgified-fabric-api.pw.toml"
 metafile = true
 
@@ -206,6 +214,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -382,6 +394,38 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/xaeros/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-end-island.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-strongholds.pw.toml"
 metafile = true
 
 [[files]]

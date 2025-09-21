@@ -1,0 +1,13 @@
+name = "CC:C Bridge"
+filename = "cccbridge-mc1.21.1-v1.7.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fXt291FO/versions/k3OVsWus/cccbridge-mc1.21.1-v1.7.2-neoforge.jar"
+hash-format = "sha1"
+hash = "86fc996c61b5257c24efd2a4c7e48b256b21bd76"
+
+[update]
+[update.modrinth]
+mod-id = "fXt291FO"
+version = "k3OVsWus"
