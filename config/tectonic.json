@@ -1,0 +1,8 @@
+{
+  "continents": {
+    "erosion_scale": 0.15
+  },
+  "global_terrain": {
+    "vertical_scale": 2
+  }
+}
