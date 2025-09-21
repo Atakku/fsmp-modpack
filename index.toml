@@ -5,11 +5,55 @@ file = "config/paxi/resourcepacks/refined-cats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-power-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-railways-navigator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-sound-of-steam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-trading-floor.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/escalated.pw.toml"
 metafile = true
 
 [[files]]
@@ -86,6 +130,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/guideme.pw.toml"
 metafile = true
 
 [[files]]
