@@ -373,6 +373,10 @@ file = "mods/utilities/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/xaeros/xaero-train-map.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/xaeros/xaeros-minimap.pw.toml"
 metafile = true
 
