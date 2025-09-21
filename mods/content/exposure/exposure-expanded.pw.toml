@@ -1,0 +1,13 @@
+name = "Exposure: Expanded"
+filename = "exposure_expanded-neoforge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/61XQmq6p/versions/jXl8swWT/exposure_expanded-neoforge-1.0.1.jar"
+hash-format = "sha1"
+hash = "a64e3b59d385f472c583cc4ed3e9353538a9290d"
+
+[update]
+[update.modrinth]
+mod-id = "61XQmq6p"
+version = "jXl8swWT"

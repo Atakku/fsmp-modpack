@@ -5,27 +5,99 @@ file = "config/paxi/resourcepacks/refined-cats.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create.pw.toml"
+file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/gregtechceu-modern.pw.toml"
+file = "mods/content/create/create.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libraries/paxi.pw.toml"
+file = "mods/content/exposure/exposure-catalog.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libraries/yungs-api.pw.toml"
+file = "mods/content/exposure/exposure-expanded.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
+file = "mods/content/exposure/exposure-polaroid.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-space-war.pw.toml"
+file = "mods/content/exposure/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/creeper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/joy-of-painting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/music-maker-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/straw-statues.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/moyai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries-squared.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/resourceful-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
