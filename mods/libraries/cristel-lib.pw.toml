@@ -1,6 +1,6 @@
 name = "Cristel Lib"
 filename = "cristellib-neoforge-1.2.8.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cl223EMc/versions/oLp2OCg3/cristellib-neoforge-1.2.8.jar"
