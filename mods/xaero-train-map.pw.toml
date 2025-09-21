@@ -1,0 +1,13 @@
+name = "Xaero Train Map"
+filename = "xaerotrainmap-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ov2r3aVY/versions/mgDpAA4x/xaerotrainmap-1.0.0.jar"
+hash-format = "sha1"
+hash = "4b9d3a53247b2f3977e32b246be5aeb131504eae"
+
+[update]
+[update.modrinth]
+mod-id = "Ov2r3aVY"
+version = "mgDpAA4x"

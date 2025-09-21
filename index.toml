@@ -385,4 +385,8 @@ file = "mods/utilities/xaeros/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/xaero-train-map.pw.toml"
+metafile = true
+
+[[files]]
 file = "unsup.toml"
