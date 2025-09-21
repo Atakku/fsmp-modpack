@@ -193,6 +193,10 @@ file = "mods/libraries/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/moonlight.pw.toml"
 metafile = true
 
