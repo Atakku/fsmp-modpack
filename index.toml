@@ -32,6 +32,10 @@ file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/blocks-bogies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
@@ -128,11 +132,11 @@ file = "mods/content/other/joy-of-painting.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
+file = "mods/content/other/mimi.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/other/music-maker-mod.pw.toml"
+file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
 metafile = true
 
 [[files]]
@@ -225,10 +229,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/mimi.pw.toml"
 metafile = true
 
 [[files]]
