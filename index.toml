@@ -28,6 +28,10 @@ file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/create-cc-total-logistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
@@ -37,6 +41,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
 [[files]]
@@ -57,6 +65,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-integrated-farming.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-mixed-casing.pw.toml"
 metafile = true
 
 [[files]]
@@ -96,6 +108,10 @@ file = "mods/content/create/escalated.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/gears-n-kinetics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/hypertube.pw.toml"
 metafile = true
 
@@ -125,6 +141,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/ribbits.pw.toml"
 metafile = true
 
 [[files]]
