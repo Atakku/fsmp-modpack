@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fsmp-resourcepack.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/refined-cats.pw.toml"
 metafile = true
 
