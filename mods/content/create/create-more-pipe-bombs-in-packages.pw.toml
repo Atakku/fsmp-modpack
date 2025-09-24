@@ -1,13 +1,13 @@
 name = "Create More: Pipe Bombs in Packages"
-filename = "cmpackagepipebomb-1.0.0.jar"
+filename = "cmpackagepipebomb-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sOekynIc/versions/cGTsaiwl/cmpackagepipebomb-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/sOekynIc/versions/gsNS8VSw/cmpackagepipebomb-1.0.1.jar"
 hash-format = "sha1"
-hash = "4c5cdc6f4070a8676c8f8a75e6a4f30c381a697c"
+hash = "17ecff3b68c0518a4032610fc747796c0ab3ebea"
 
 [update]
 [update.modrinth]
 mod-id = "sOekynIc"
-version = "cGTsaiwl"
+version = "gsNS8VSw"

@@ -412,14 +412,6 @@ file = "mods/tweaks/visual/visuality-forge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/utilities/bluemap/bluemap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/bluemap/create-track-map-fork.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/utilities/chunky.pw.toml"
 metafile = true
 
