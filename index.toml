@@ -28,6 +28,10 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/advancedperipherals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/cc-tweaked.pw.toml"
 metafile = true
 
@@ -37,6 +41,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/computer-craft/create-cc-total-logistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/toms-peripherals.pw.toml"
 metafile = true
 
 [[files]]
