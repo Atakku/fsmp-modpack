@@ -1,0 +1,13 @@
+name = "Create Lootr"
+filename = "Create LootR Chest.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/avHOJfxd/versions/q5JhahnV/Create%20LootR%20Chest.zip"
+hash-format = "sha1"
+hash = "9e32930065d546e028fa5cd96bf6fdbc9dd4fb10"
+
+[update]
+[update.modrinth]
+mod-id = "avHOJfxd"
+version = "q5JhahnV"
