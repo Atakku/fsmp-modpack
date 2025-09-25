@@ -356,19 +356,19 @@ file = "mods/performance/particle-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/sodium/sodium-extra.pw.toml"
+file = "mods/performance/sodium-extra.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/sodium/sodium-options-api.pw.toml"
+file = "mods/performance/sodium-options-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/sodium/sodium-options-mod-compat.pw.toml"
+file = "mods/performance/sodium-options-mod-compat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/sodium/sodium.pw.toml"
+file = "mods/performance/sodium.pw.toml"
 metafile = true
 
 [[files]]
