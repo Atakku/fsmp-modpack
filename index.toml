@@ -428,6 +428,10 @@ file = "mods/utilities/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/worldedit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/xaeros/xaero-train-map.pw.toml"
 metafile = true
 
