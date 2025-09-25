@@ -604,4 +604,12 @@ file = "mods/worldgen/yungs/yungs-better-strongholds.pw.toml"
 metafile = true
 
 [[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+metafile = true
+
+[[files]]
 file = "unsup.toml"
