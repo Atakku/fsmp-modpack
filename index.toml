@@ -208,6 +208,10 @@ file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/collective.pw.toml"
 metafile = true
 
@@ -449,6 +453,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/overworld/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/roadarchitect.pw.toml"
 metafile = true
 
 [[files]]
