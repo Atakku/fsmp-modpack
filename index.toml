@@ -356,11 +356,7 @@ file = "mods/performance/particle-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/sodium/embeddium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/performance/sodium/rubidium-extra.pw.toml"
+file = "mods/performance/sodium/sodium-extra.pw.toml"
 metafile = true
 
 [[files]]
@@ -369,6 +365,10 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium/sodium-options-mod-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/sodium.pw.toml"
 metafile = true
 
 [[files]]
