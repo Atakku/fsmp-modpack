@@ -456,10 +456,6 @@ file = "mods/worldgen/overworld/tectonic.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/roadarchitect.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
 metafile = true
 
