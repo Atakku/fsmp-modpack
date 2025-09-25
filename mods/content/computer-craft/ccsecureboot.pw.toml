@@ -1,0 +1,13 @@
+name = "CCSecureBoot"
+filename = "CCSecureBoot-1.0.1-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8S3qbPSr/versions/YTmnnx11/CCSecureBoot-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha1"
+hash = "e3588e1c591591cbdc9fd9abd0cdba3d3a2819d4"
+
+[update]
+[update.modrinth]
+mod-id = "8S3qbPSr"
+version = "YTmnnx11"

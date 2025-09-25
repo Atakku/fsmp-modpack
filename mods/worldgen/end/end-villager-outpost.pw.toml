@@ -1,0 +1,13 @@
+name = "End Villager Outpost"
+filename = "end_villager_outpost-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J90dLs0h/versions/R7n8tG3L/end_villager_outpost-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha1"
+hash = "519db3ab64b92064036566f6ee71fd422d04d27e"
+
+[update]
+[update.modrinth]
+mod-id = "J90dLs0h"
+version = "R7n8tG3L"

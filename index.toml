@@ -32,6 +32,10 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/applied-energistics/schematic-energistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
@@ -41,6 +45,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/computer-craft/cccbridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/ccsecureboot.pw.toml"
 metafile = true
 
 [[files]]
@@ -509,6 +517,10 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/xaeros/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/end/end-villager-outpost.pw.toml"
 metafile = true
 
 [[files]]
