@@ -1,0 +1,13 @@
+name = "Sodium Options Mod Compat"
+filename = "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yg1VT27P/versions/iPZbtcZJ/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha1"
+hash = "6a2716b169355edad7536b347390e362e949b06e"
+
+[update]
+[update.modrinth]
+mod-id = "Yg1VT27P"
+version = "iPZbtcZJ"

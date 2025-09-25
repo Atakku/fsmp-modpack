@@ -256,6 +256,10 @@ file = "mods/libraries/forgified-fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/geckolib.pw.toml"
 metafile = true
 
@@ -316,11 +320,19 @@ file = "mods/performance/c2me-neoforge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/createbetterfps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/entityculling.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/performance/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/flerovium.pw.toml"
 metafile = true
 
 [[files]]
@@ -340,11 +352,23 @@ file = "mods/performance/modernfix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/sodium-extra.pw.toml"
+file = "mods/performance/particle-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/sodium.pw.toml"
+file = "mods/performance/sodium/embeddium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/rubidium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/sodium-options-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/sodium-options-mod-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -484,11 +508,27 @@ file = "mods/tweaks/visual/bettergrassify.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/colorwheel-patcher.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/colorwheel.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/iris.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/particular-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/sodium-dynamic-lights.pw.toml"
 metafile = true
 
 [[files]]
