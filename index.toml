@@ -224,6 +224,10 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/custom/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
@@ -596,7 +600,7 @@ file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/overworld/lithosphere.pw.toml"
+file = "mods/worldgen/overworld/tectonic.pw.toml"
 metafile = true
 
 [[files]]
