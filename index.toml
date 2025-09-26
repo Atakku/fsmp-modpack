@@ -600,7 +600,7 @@ file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/overworld/tectonic.pw.toml"
+file = "mods/worldgen/overworld/lithosphere.pw.toml"
 metafile = true
 
 [[files]]

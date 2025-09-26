@@ -1,0 +1,13 @@
+name = "Lithosphere"
+filename = "lithosphere-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iv9jp2k9/versions/wqHGyD4G/lithosphere-1.7.jar"
+hash-format = "sha1"
+hash = "a77a7fb21336f7dc16de8ee51986de7ee1c7fc81"
+
+[update]
+[update.modrinth]
+mod-id = "iv9jp2k9"
+version = "wqHGyD4G"
