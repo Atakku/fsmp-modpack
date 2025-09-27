@@ -20,6 +20,9 @@ metafile = true
 file = "config/tectonic.json"
 
 [[files]]
+file = "map.png"
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
