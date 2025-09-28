@@ -3,11 +3,6 @@ filename = "expanded_ecosphere-neoforge-3.4.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/IfDkDfDd/expanded_ecosphere-neoforge-3.4.1.1.jar"
-hash-format = "sha1"
-hash = "5cb205e0d5a039304e242ad0906816215da7ffeb"
-
-[update]
-[update.modrinth]
-mod-id = "O1XGs7ps"
-version = "IfDkDfDd"
+url = "https://pwcdn.atakku.dev/expanded_ecosphere-neoforge-3.4.1.1.jar"
+hash-format = "sha256"
+hash = "8bb7f12ba5847136ba50534837e0b3878c62984663e57d3c73495a9f1da01e3b"
