@@ -3,6 +3,6 @@ filename = "expanded_ecosphere-neoforge-3.4.1.1.jar"
 side = "both"
 
 [download]
-url = "https://pwcdn.atakku.dev/expanded_ecosphere-neoforge-3.4.1.1.jar"
+url = "https://pwcdn.fem.place/expanded_ecosphere-neoforge-3.4.1.1.jar"
 hash-format = "sha256"
-hash = "8bb7f12ba5847136ba50534837e0b3878c62984663e57d3c73495a9f1da01e3b"
+hash = "ee16e21c9c1ecccd0b41edf02c1e81f2efc66b2d0abca5c7758d2f4de7726b6d"
