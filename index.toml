@@ -297,6 +297,10 @@ file = "mods/libraries/kiwi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/konkrete.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/kotlin-for-forge.pw.toml"
 metafile = true
 
@@ -541,6 +545,10 @@ file = "mods/tweaks/gameplay/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/dark-window-bar.pw.toml"
 metafile = true
 
@@ -585,11 +593,43 @@ file = "mods/tweaks/hud/chatimage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/hud/jade-addons-forge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/jade.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/overflowing-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/desired-servers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/hide-experimental-warning.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/no-resource-pack-warnings-forge.pw.toml"
 metafile = true
 
 [[files]]
