@@ -10,6 +10,9 @@ file = "config/desiredservers/desiredservers.json"
 file = "config/expanded_ecosphere/config.json5"
 
 [[files]]
+file = "config/fancymenu/assets/icon.icns"
+
+[[files]]
 file = "config/fancymenu/assets/icon16x16.png"
 
 [[files]]

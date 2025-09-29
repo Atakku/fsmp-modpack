@@ -1,6 +1,6 @@
 ##[general]
 
-I:default_gui_scale = '-1';
+I:default_gui_scale = '3';
 B:play_vanilla_menu_music = 'true';
 B:force_fullscreen = 'false';
 
@@ -24,10 +24,10 @@ B:game_intro_fade_out = 'true';
 ##[window]
 
 B:show_custom_window_icon = 'true';
-S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '';
-S:custom_window_title = 'FemSMP';
-S:custom_window_icon_16 = '';
+S:custom_window_icon_macos = '/config/fancymenu/assets/icon.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/icon32x32.png';
+S:custom_window_title = 'FemSMP 2';
+S:custom_window_icon_16 = '/config/fancymenu/assets/icon16x16.png';
 
 
 ##[multiplayer_screen]
