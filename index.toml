@@ -672,6 +672,14 @@ file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/player/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/figurasvc.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/bettergrassify.pw.toml"
 metafile = true
 
@@ -701,6 +709,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/voice/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
