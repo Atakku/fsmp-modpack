@@ -1,0 +1,13 @@
+name = "EMIffect"
+filename = "emiffect-neoforge-2.1.6+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/705gWllI/versions/S6Q6duUj/emiffect-neoforge-2.1.6%2Bmc1.21.1.jar"
+hash-format = "sha1"
+hash = "0afecce68c1fa9e13ef46d4b20a67f65b19c9d8c"
+
+[update]
+[update.modrinth]
+mod-id = "705gWllI"
+version = "S6Q6duUj"

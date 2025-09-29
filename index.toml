@@ -253,6 +253,10 @@ file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/balm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/collective.pw.toml"
 metafile = true
 
@@ -341,6 +345,10 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/async-locator-refined.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/c2me-neoforge.pw.toml"
 metafile = true
 
@@ -374,6 +382,10 @@ metafile = true
 
 [[files]]
 file = "mods/performance/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/neo-language-reload.pw.toml"
 metafile = true
 
 [[files]]
@@ -417,7 +429,31 @@ file = "mods/tweaks/emi/distraction-free-recipes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/emi/emi-create-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-for-create-stock.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emiffect.pw.toml"
 metafile = true
 
 [[files]]
@@ -509,11 +545,27 @@ file = "mods/tweaks/gui/dark-window-bar.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/distinguished-potions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/easy-anvils.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/easy-magic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/inventory-essentials.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/scholar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/shulkerboxtooltip.pw.toml"
 metafile = true
 
 [[files]]
@@ -650,6 +702,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yungs/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-witch-huts.pw.toml"
 metafile = true
 
 [[files]]

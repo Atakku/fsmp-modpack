@@ -1,0 +1,13 @@
+name = "Distinguished Potions"
+filename = "DistinguishedPotions-v21.1.1-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lX1xTFBZ/versions/Jya0J2fp/DistinguishedPotions-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha1"
+hash = "ab787ac8348340a80401a5b1feb293750db48274"
+
+[update]
+[update.modrinth]
+mod-id = "lX1xTFBZ"
+version = "Jya0J2fp"

@@ -1,0 +1,13 @@
+name = "EMI Enchanting"
+filename = "emi_enchanting-0.1.2+1.21+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wbWoo11W/versions/ZyJ6TKvh/emi_enchanting-0.1.2%2B1.21%2Bneoforge.jar"
+hash-format = "sha1"
+hash = "02ad74769ffcec259fd9bb14a1760593f6182b5c"
+
+[update]
+[update.modrinth]
+mod-id = "wbWoo11W"
+version = "ZyJ6TKvh"
