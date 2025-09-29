@@ -1,6 +1,6 @@
 name = "Async Locator Refined"
 filename = "async-locator-refined-neoforge-1.21.1-1.5.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LUIHK4LD/versions/SDwio2oD/async-locator-refined-neoforge-1.21.1-1.5.0.jar"
