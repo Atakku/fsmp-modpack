@@ -4,7 +4,28 @@ hash-format = "sha256"
 file = "config/create-server.toml"
 
 [[files]]
+file = "config/desiredservers/desiredservers.json"
+
+[[files]]
 file = "config/expanded_ecosphere/config.json5"
+
+[[files]]
+file = "config/fancymenu/assets/icon16x16.png"
+
+[[files]]
+file = "config/fancymenu/assets/icon32x32.png"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+
+[[files]]
+file = "config/fancymenu/options.txt"
 
 [[files]]
 file = "config/mimi-common.toml"
