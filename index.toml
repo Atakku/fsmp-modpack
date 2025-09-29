@@ -19,6 +19,9 @@ file = "config/fancymenu/assets/icon32x32.png"
 file = "config/fancymenu/assets/logo.png"
 
 [[files]]
+file = "config/fancymenu/customizablemenus.txt"
+
+[[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 
 [[files]]
