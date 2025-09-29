@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-server.toml"
+
+[[files]]
+file = "config/expanded_ecosphere/config.json5"
+
+[[files]]
+file = "config/mimi-common.toml"
+
+[[files]]
 file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
 metafile = true
 
@@ -17,7 +26,19 @@ file = "config/paxi/resourcepacks/refined-cats.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/ribbits-neoforge-1_21_1.toml"
+
+[[files]]
 file = "config/tectonic.json"
+
+[[files]]
+file = "config/vivecraft-server-config.toml"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
 
 [[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
