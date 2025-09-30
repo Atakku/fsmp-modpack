@@ -65,6 +65,9 @@ file = "config/vivecraft-server-config.toml"
 file = "config/xaerominimap-common.txt"
 
 [[files]]
+file = "config/xaerominimap.txt"
+
+[[files]]
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
