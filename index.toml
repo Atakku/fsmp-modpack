@@ -435,6 +435,30 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies/blockui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies/domum-ornamentum.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies/minecolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies/multi-piston.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies/structurize.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies/towntalk.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/async-locator-refined.pw.toml"
 metafile = true
 
