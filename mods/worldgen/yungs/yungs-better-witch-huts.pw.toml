@@ -1,6 +1,6 @@
 name = "YUNG's Better Witch Huts"
 filename = "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/t5FRdP87/versions/AvedwcIe/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"

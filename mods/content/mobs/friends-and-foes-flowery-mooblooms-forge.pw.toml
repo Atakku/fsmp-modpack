@@ -1,0 +1,13 @@
+name = "Friends&Foes - Flowery Mooblooms (Forge/NeoForge)"
+filename = "flowerymooblooms-neoforge-3.0.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wYtDgIUZ/versions/qweMeTSH/flowerymooblooms-neoforge-3.0.1%2Bmc1.21.1.jar"
+hash-format = "sha1"
+hash = "6960f0c3fc89ac0898867f778cdc2fde992a2541"
+
+[update]
+[update.modrinth]
+mod-id = "wYtDgIUZ"
+version = "qweMeTSH"

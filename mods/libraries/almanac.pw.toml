@@ -1,0 +1,13 @@
+name = "Almanac"
+filename = "almanac-1.21.x-neoforge-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gi02250Z/versions/1FKrJXAN/almanac-1.21.x-neoforge-1.0.2.jar"
+hash-format = "sha1"
+hash = "e692eae59cc35755defa1ba780eba65fb2843cbb"
+
+[update]
+[update.modrinth]
+mod-id = "Gi02250Z"
+version = "1FKrJXAN"

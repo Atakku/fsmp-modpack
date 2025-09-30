@@ -1,0 +1,13 @@
+name = "#CarrasconLib"
+filename = "carrasconlib-neoforge-1.21.1-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QpsOhpBa/versions/AZ2Fgsfn/carrasconlib-neoforge-1.21.1-0.1.jar"
+hash-format = "sha1"
+hash = "f8df1bb65590a62e446d6fd8769c26433f4cb621"
+
+[update]
+[update.modrinth]
+mod-id = "QpsOhpBa"
+version = "AZ2Fgsfn"

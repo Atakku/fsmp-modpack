@@ -91,6 +91,10 @@ file = "mods/content/build-deco/nightlights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/snowy-spirit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
@@ -239,7 +243,23 @@ file = "mods/content/mobs/enderman-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/friends-and-foes-flowery-mooblooms-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/friends-and-foes-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/mavm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/ribbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/snuffles.pw.toml"
 metafile = true
 
 [[files]]
@@ -287,11 +307,23 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/almanac.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/libraries/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/carrasconlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -352,6 +384,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mavapi.pw.toml"
 metafile = true
 
 [[files]]
@@ -527,6 +563,10 @@ file = "mods/tweaks/gameplay/cat_jam.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/companion.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/crawl.pw.toml"
 metafile = true
 
@@ -540,6 +580,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/ironfish.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/lmd.pw.toml"
 metafile = true
 
 [[files]]
@@ -567,6 +611,10 @@ file = "mods/tweaks/gameplay/screenshot-to-clipboard.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/shulker-drops-two.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/skippy-pearls.pw.toml"
 metafile = true
 
@@ -580,6 +628,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/softer-hay-bales.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
 metafile = true
 
 [[files]]
@@ -655,7 +707,19 @@ file = "mods/tweaks/hud/modelfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/hud/now-playing.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/overflowing-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/pronounmc-neo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/structure-credits.pw.toml"
 metafile = true
 
 [[files]]
@@ -803,6 +867,10 @@ file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/overworld/mss-moogs-soaring-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/overworld/tectonic.pw.toml"
 metafile = true
 
@@ -819,6 +887,10 @@ file = "mods/worldgen/yungs/yungs-better-jungle-temples.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/yungs/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/yungs/yungs-better-nether-fortresses.pw.toml"
 metafile = true
 
@@ -832,6 +904,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yungs/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]

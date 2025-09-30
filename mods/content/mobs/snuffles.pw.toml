@@ -1,0 +1,13 @@
+name = "Snuffles"
+filename = "snuffles-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NYGhKUS6/versions/YGfEgx7L/snuffles-1.1.2.jar"
+hash-format = "sha1"
+hash = "a3a43993f9e95f9217c07a843d1af502f67a979b"
+
+[update]
+[update.modrinth]
+mod-id = "NYGhKUS6"
+version = "YGfEgx7L"

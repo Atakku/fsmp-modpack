@@ -1,0 +1,13 @@
+name = "PronounMC"
+filename = "pronounmc-neoforge-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SrkzlZZ1/versions/65acIDza/pronounmc-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha1"
+hash = "6aba96c69b80111df3b76b0c0e22eb0b6ee452eb"
+
+[update]
+[update.modrinth]
+mod-id = "SrkzlZZ1"
+version = "65acIDza"
