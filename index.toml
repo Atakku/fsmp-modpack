@@ -304,6 +304,10 @@ file = "mods/libraries/entitytexturefeatures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/forgified-fabric-api.pw.toml"
 metafile = true
 
@@ -329,6 +333,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/library-ferret.pw.toml"
 metafile = true
 
 [[files]]
@@ -644,6 +652,10 @@ file = "mods/tweaks/menu/better-advancements.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/menu/catalogue.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/menu/desired-servers.pw.toml"
 metafile = true
 
@@ -752,7 +764,27 @@ file = "mods/worldgen/end/ends-phantasm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/end/mes-moogs-end-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/end/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nether/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nether/mns-moogs-nether-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/adorabuild-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/better-village.pw.toml"
 metafile = true
 
 [[files]]

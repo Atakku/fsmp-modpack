@@ -1,0 +1,13 @@
+name = "Library Ferret"
+filename = "libraryferret-neoforge-1.21.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOB2l4oJ/versions/AKcIMUil/libraryferret-neoforge-1.21.1-4.0.0.jar"
+hash-format = "sha1"
+hash = "9f750661168a599bdd7b2928e6588768d6105bfe"
+
+[update]
+[update.modrinth]
+mod-id = "DOB2l4oJ"
+version = "AKcIMUil"
