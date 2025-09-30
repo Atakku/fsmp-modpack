@@ -87,6 +87,10 @@ file = "mods/content/applied-energistics/schematic-energistics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/nightlights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
@@ -224,6 +228,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/creeper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/critters-and-companions.pw.toml"
 metafile = true
 
 [[files]]
