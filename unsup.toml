@@ -9,6 +9,12 @@ name = "Xaero's Minimap"
 description = "The recommended choice"
 
 [[flavor_groups.minimap.choices]]
-id = "minimap_journry"
-name = "Xaero's Minimap"
-description = "Meowmeow"
+id = "minimap_journeymap"
+name = "Journeymap"
+description = "An alternative"
+
+[metafile.minimap_xaero]
+flavors = ["xaero-train-map", "xaeros-minimap", "xaeros-world-map"]
+
+[metafile.minimap_journeymap]
+flavors = ["journeymap", "xaeros-minimap", "xaeros-world-map"]

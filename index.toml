@@ -571,10 +571,6 @@ file = "mods/tweaks/emi/emi-for-create-stock.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/emi/emi-loot.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/emi/emi-ores.pw.toml"
 metafile = true
 
