@@ -303,10 +303,6 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom/fsmp-worldgen.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
@@ -767,6 +763,22 @@ file = "mods/tweaks/hud/structure-credits.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/map/journey/journeymap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaero-train-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/menu/better-advancements.pw.toml"
 metafile = true
 
@@ -851,6 +863,10 @@ file = "mods/utilities/chunky.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/custom/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/spark.pw.toml"
 metafile = true
 
@@ -860,18 +876,6 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/worldedit.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/xaeros/xaero-train-map.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/xaeros/xaeros-minimap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/xaeros/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]

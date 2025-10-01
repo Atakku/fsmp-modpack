@@ -1,9 +1,14 @@
 [flavor_groups.minimap]
 name = "Minimap"
-description = "Which minimap do you prefer?"
+description = "Pick your preferred minimap mod:"
 side = "client"
 
 [[flavor_groups.minimap.choices]]
 id = "minimap_xaero"
 name = "Xaero's Minimap"
 description = "The recommended choice"
+
+[[flavor_groups.minimap.choices]]
+id = "minimap_journry"
+name = "Xaero's Minimap"
+description = "Meowmeow"
