@@ -859,6 +859,10 @@ file = "mods/utilities/chunky.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/custom/fsmp-bridge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
