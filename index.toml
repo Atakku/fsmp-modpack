@@ -435,30 +435,6 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies/blockui.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/minecolonies/domum-ornamentum.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/minecolonies/minecolonies.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/minecolonies/multi-piston.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/minecolonies/structurize.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/minecolonies/towntalk.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/performance/async-locator-refined.pw.toml"
 metafile = true
 
@@ -524,6 +500,50 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/minecolonies/blockui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/minecolonies/domum-ornamentum.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/minecolonies/minecolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/minecolonies/multi-piston.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/minecolonies/structurize.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/minecolonies/towntalk.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/worldgen/adorabuild-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/worldgen/better-village.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/worldgen/mes-moogs-end-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/worldgen/mns-moogs-nether-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/worldgen/mss-moogs-soaring-structures.pw.toml"
 metafile = true
 
 [[files]]
@@ -863,10 +883,6 @@ file = "mods/worldgen/end/ends-phantasm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/end/mes-moogs-end-structures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/worldgen/end/nullscape.pw.toml"
 metafile = true
 
@@ -875,23 +891,7 @@ file = "mods/worldgen/nether/amplified-nether.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/nether/mns-moogs-nether-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/overworld/adorabuild-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/overworld/better-village.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/overworld/mss-moogs-soaring-structures.pw.toml"
 metafile = true
 
 [[files]]
