@@ -1,0 +1,13 @@
+name = "LanguageReloadUnofficial"
+filename = "languagereload-neoforge-1.21.1-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4zpN0syd/versions/qSdV3sEV/languagereload-neoforge-1.21.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "4a9c4c762facbd9d4691763e0a6315c5b7ab3835"
+
+[update]
+[update.modrinth]
+mod-id = "4zpN0syd"
+version = "qSdV3sEV"

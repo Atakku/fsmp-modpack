@@ -463,15 +463,15 @@ file = "mods/performance/krypton-foxified.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/languagereloadunofficial.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/lithium.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/performance/modernfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/performance/neo-language-reload.pw.toml"
 metafile = true
 
 [[files]]
