@@ -463,10 +463,6 @@ file = "mods/performance/krypton-foxified.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/languagereloadunofficial.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/performance/lithium.pw.toml"
 metafile = true
 
