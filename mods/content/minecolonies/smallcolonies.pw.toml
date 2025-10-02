@@ -1,0 +1,13 @@
+name = "SmallColonies for Minecolonies"
+filename = "smallcolonies 1.21.1 v1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ff54d155398d94efbbb6b67b5d877f50c427a2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6822847
+project-id = 1232237

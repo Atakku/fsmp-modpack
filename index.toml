@@ -231,6 +231,26 @@ file = "mods/content/farmers-delight/some-assembly-required.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/minecolonies/minecolonies-compatibility.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/minecolonies/minecolonies-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/minecolonies/minecolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/minecolonies/smallcolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/minecolonies/stylecolonies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/creeper-overhaul.pw.toml"
 metafile = true
 
@@ -315,6 +335,10 @@ file = "mods/libraries/balm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/blockui.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/carrasconlib.pw.toml"
 metafile = true
 
@@ -336,6 +360,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/domum-ornamentum.pw.toml"
 metafile = true
 
 [[files]]
@@ -403,6 +431,10 @@ file = "mods/libraries/mru.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/multi-piston.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/patchouli.pw.toml"
 metafile = true
 
@@ -420,6 +452,14 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/structurize.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/towntalk.pw.toml"
 metafile = true
 
 [[files]]
@@ -499,34 +539,6 @@ file = "mods/performance/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/cerbons-better-beacons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/minecolonies/blockui.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/minecolonies/domum-ornamentum.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/minecolonies/minecolonies.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/minecolonies/multi-piston.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/minecolonies/structurize.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/minecolonies/towntalk.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/worldgen/adorabuild-structures.pw.toml"
 metafile = true
 
@@ -600,6 +612,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/cat_jam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/cerbons-better-beacons.pw.toml"
 metafile = true
 
 [[files]]
