@@ -871,10 +871,6 @@ file = "mods/utilities/spark.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/utilities/world-preview.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/utilities/worldedit.pw.toml"
 metafile = true
 
