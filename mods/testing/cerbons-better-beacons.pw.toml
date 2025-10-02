@@ -1,0 +1,13 @@
+name = "CERBON's Better Beacons"
+filename = "BetterBeacons-NeoForge-1.21.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gSeQTNSE/versions/acPk7j8a/BetterBeacons-NeoForge-1.21.1-2.1.1.jar"
+hash-format = "sha1"
+hash = "036db02525151be4fa0abd3e4f6f58104efd16ee"
+
+[update]
+[update.modrinth]
+mod-id = "gSeQTNSE"
+version = "acPk7j8a"

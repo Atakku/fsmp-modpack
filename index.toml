@@ -319,6 +319,10 @@ file = "mods/libraries/carrasconlib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/cerbons-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 
@@ -492,6 +496,10 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/cerbons-better-beacons.pw.toml"
 metafile = true
 
 [[files]]
