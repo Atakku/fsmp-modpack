@@ -818,6 +818,10 @@ file = "mods/tweaks/hud/overflowing-bars.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/hud/pick-up-notifier.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/pronounmc-neo.pw.toml"
 metafile = true
 
@@ -862,6 +866,10 @@ file = "mods/tweaks/menu/drippy-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/menu/exportstats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/menu/fancymenu.pw.toml"
 metafile = true
 
@@ -882,11 +890,19 @@ file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/menu/searchstats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/player/figura.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/player/figurasvc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/ambient-environment.pw.toml"
 metafile = true
 
 [[files]]
@@ -902,7 +918,19 @@ file = "mods/tweaks/visual/colorwheel.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/distanthorizons-server.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/euphoria-patches.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/highlight.pw.toml"
 metafile = true
 
 [[files]]
@@ -911,6 +939,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/particular-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/seamless.pw.toml"
 metafile = true
 
 [[files]]

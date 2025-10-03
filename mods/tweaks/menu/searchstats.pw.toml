@@ -1,0 +1,13 @@
+name = "Search Stats"
+filename = "searchstats-neoforge-1.0.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ExI7GmJi/versions/nV5KwLHV/searchstats-neoforge-1.0.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "d5e26cc0e5d3c068f2ba7860c5ac1dd2f5d27dc7"
+
+[update]
+[update.modrinth]
+mod-id = "ExI7GmJi"
+version = "nV5KwLHV"
