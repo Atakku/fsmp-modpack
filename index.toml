@@ -234,6 +234,10 @@ file = "mods/content/farmers-delight/some-assembly-required.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/minecolonies/byzantine-styles-pack-for-minecolonies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/minecolonies/minecolonies-compatibility.pw.toml"
 metafile = true
 
