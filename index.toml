@@ -238,14 +238,6 @@ file = "mods/content/minecolonies/byzantine-styles-pack-for-minecolonies.pw.toml
 metafile = true
 
 [[files]]
-file = "mods/content/minecolonies/minecolonies-compatibility.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/minecolonies/minecolonies-tweaks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/minecolonies/minecolonies.pw.toml"
 metafile = true
 
