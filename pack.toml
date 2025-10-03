@@ -13,5 +13,6 @@ neoforge = "21.1.209"
 unsup = "1.1.6"
 
 [options]
+acceptable-game-versions = ["1.21.1", "1.21"]
 datapack-folder = "config/paxi/datapacks"
 no-internal-hashes = true

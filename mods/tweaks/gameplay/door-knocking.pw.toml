@@ -1,0 +1,13 @@
+name = "Door Knocking"
+filename = "door_knocking-1.0.1+1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MyreyrL3/versions/lcIxNI0M/door_knocking-1.0.1%2B1.21-neoforge.jar"
+hash-format = "sha1"
+hash = "005bf9e291207af3ae7c0f2e75acb7731a571c18"
+
+[update]
+[update.modrinth]
+mod-id = "MyreyrL3"
+version = "lcIxNI0M"

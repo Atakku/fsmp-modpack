@@ -1,0 +1,13 @@
+name = "NetherPortalFix"
+filename = "netherportalfix-neoforge-1.21.1-21.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha1"
+hash = "9f1ba483216aebce1ee6185601231158684f5de8"
+
+[update]
+[update.modrinth]
+mod-id = "nPZr02ET"
+version = "O09BGtgh"

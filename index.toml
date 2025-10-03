@@ -86,6 +86,10 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/schematic-energistics.pw.toml"
 metafile = true
 
@@ -514,6 +518,10 @@ file = "mods/performance/krypton-foxified.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/ksyxis.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/lithium.pw.toml"
 metafile = true
 
@@ -638,7 +646,15 @@ file = "mods/tweaks/gameplay/crawl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/crops-love-rain.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/door-knocking.pw.toml"
 metafile = true
 
 [[files]]
@@ -658,6 +674,14 @@ file = "mods/tweaks/gameplay/lootr.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/monsters-in-the-closet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/no-chat-reports.pw.toml"
 metafile = true
 
@@ -674,7 +698,15 @@ file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/polymorph.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/screenshot-to-clipboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/showcase-item.pw.toml"
 metafile = true
 
 [[files]]
@@ -691,6 +723,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/snow-under-trees.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/snowballs-freeze-mobs.pw.toml"
 metafile = true
 
 [[files]]

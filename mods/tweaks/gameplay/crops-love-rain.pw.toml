@@ -1,0 +1,13 @@
+name = "Crops Love Rain"
+filename = "Crops-Love-Rain-neoforge-2.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRci7UZp/versions/65WXhhAr/Crops-Love-Rain-neoforge-2.1.1.jar"
+hash-format = "sha1"
+hash = "8d7dd1db94d58c59e31c4bfa1de90dcf7a37221c"
+
+[update]
+[update.modrinth]
+mod-id = "cRci7UZp"
+version = "65WXhhAr"
