@@ -1,0 +1,13 @@
+name = "Configurable"
+filename = "configurable-3.2.9+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/bOBCZkCF/configurable-3.2.9%2B1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "a031b28f2c8ede879c528036c3bedea3998e483c"
+
+[update]
+[update.modrinth]
+mod-id = "lGffrQ3O"
+version = "bOBCZkCF"
