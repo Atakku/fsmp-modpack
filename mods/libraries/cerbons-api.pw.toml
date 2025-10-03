@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GkIc6rRo/versions/5wbxkBQ1/CerbonsAPI-NeoForge-1.21-1.3.0.jar"
-hash-format = "sha1"
-hash = "3f0d3eed4633d9ef3a713de4b39ee4e683aa9389"
+hash-format = "sha512"
+hash = "6bd24b718d532cdd0c49150eefc223b4d7c3550bbc81d5c65ed84b704bf3c8e20d3cb3524082688383cc4aba38e190921976b056b84d5755670c5399a7c7e627"
 
 [update]
 [update.modrinth]

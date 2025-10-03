@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/KM7gMSY1/versions/R9x5eW36/skippy-pearls-1.4%2B1.21-1.21.8%2BDatapack.jar"
-hash-format = "sha1"
-hash = "a82220a7c634313d651824727d1aad7b013778e1"
+hash-format = "sha512"
+hash = "9058410aa4ba189bd24f060fbad888d09349b6e06cea9efab4cca6c45dd92345209f01197d585e30354d6a300ccfba627c277b763178c35f92d625477e822d0a"
 
 [update]
 [update.modrinth]

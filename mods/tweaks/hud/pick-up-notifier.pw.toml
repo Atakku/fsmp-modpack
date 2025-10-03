@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZX66K16c/versions/5NZounJc/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
-hash-format = "sha1"
-hash = "90d3fe207c95a3a5d849ebf8d70ffa885694e30f"
+hash-format = "sha512"
+hash = "9754f44f3bf084f45b47c88c3830dc37ffc68b4b5d6cf03ca5015177611068e8c1725670d20c0ed4674fb619227b18ccbff39cfc687a46f5258caf91c96db6db"
 
 [update]
 [update.modrinth]

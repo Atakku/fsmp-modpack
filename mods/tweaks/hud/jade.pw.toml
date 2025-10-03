@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/43sRR8f6/Jade-1.21.1-NeoForge-15.10.3.jar"
-hash-format = "sha1"
-hash = "0c7e9b04e2481d26c9080dd5d32351490d1fed3a"
+hash-format = "sha512"
+hash = "351926187c564d1f2bae2f084c77f80fe850dc90837153ef01506c049f16b02307196ed383ae25cd334530106aa741b12dd90f5e1b205439fde2b74d09274bc0"
 
 [update]
 [update.modrinth]

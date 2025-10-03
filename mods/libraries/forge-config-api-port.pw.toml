@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ohNO6lps/versions/e5mORIZw/ForgeConfigAPIPort-v21.1.4-1.21.1-NeoForge.jar"
-hash-format = "sha1"
-hash = "6eb383b62e680deb6c6955552759b1be81a1973d"
+hash-format = "sha512"
+hash = "2ffab30cde96341ac463168d457aea6eecf122baa3d8bb1e6d8db56070c8b090590da2c9570855481b9829ac1351d950582589c01c1056a8a9968ce45eb50cd3"
 
 [update]
 [update.modrinth]

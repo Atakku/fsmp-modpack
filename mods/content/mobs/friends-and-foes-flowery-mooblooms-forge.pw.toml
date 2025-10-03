@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wYtDgIUZ/versions/qweMeTSH/flowerymooblooms-neoforge-3.0.1%2Bmc1.21.1.jar"
-hash-format = "sha1"
-hash = "6960f0c3fc89ac0898867f778cdc2fde992a2541"
+hash-format = "sha512"
+hash = "27fe08f93a2276fa4dd49d395ebc2013c343922d4c5cca45db81997489588afcc12bee384128ad97bda5bc5bc917a0001040b316def31c5b20da1f8b0208147c"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/V7mbOBO4/versions/U2VU3fJ5/createstockbridge-1.21.1-0.1.6.jar"
-hash-format = "sha1"
-hash = "3ba1d0ca05211bfd28a03ce6492f9e66d08e430a"
+hash-format = "sha512"
+hash = "bdc3247e2f361018eb15dbd1008a672f37830066cafae9ddb99c75ca33e0ae962d1292a7c4706adb06872fb4687b2ad9046aa6f5d2b5127359b6bd517201d713"
 
 [update]
 [update.modrinth]

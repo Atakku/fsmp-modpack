@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gEWECBVL/versions/1SG2AP9A/GnKinetics-1.21.1-1.0l.jar"
-hash-format = "sha1"
-hash = "ab489b80957ccf9d803eabb50f7f32b144527c30"
+hash-format = "sha512"
+hash = "c043e3e146fb83739f6c4f03fca3c8017d925cd68656c42a0f17d0bce6796f6c949403ee7d4e5f5eaa431b0ad1516866d32bc7aa916977eb4a16ba88e3e306c4"
 
 [update]
 [update.modrinth]

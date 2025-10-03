@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QpsOhpBa/versions/AZ2Fgsfn/carrasconlib-neoforge-1.21.1-0.1.jar"
-hash-format = "sha1"
-hash = "f8df1bb65590a62e446d6fd8769c26433f4cb621"
+hash-format = "sha512"
+hash = "2a1d1b1fca80b1246e129c81fda5b18d35f10145153a80ad8c216c86e7519422401588c39c6e3b2e10ce366f4ba4b4fe38ab9202ba29f58d79aa937a789d4982"
 
 [update]
 [update.modrinth]

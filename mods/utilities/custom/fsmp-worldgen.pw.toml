@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://github.com/Atakku/fsmp-worldgen/releases/download/mc1.21.1/v0.7.3/fsmp-worldgen-0.7.3%2B1.21.1-server.jar"
-hash-format = "sha256"
-hash = "d120dbcb1b0a8cf0685d6a1d32ede527ec86795d2a49e9eff801f5781aecde91"
+hash-format = "sha512"
+hash = "d893eba962943bdc2421e91d266c1052656439fffb3fcae429bca664f71f49b329ea876ae9413b732ddcf1e9a9988ca596f4be5922057f667e49c47828e59d5a"
 
 [update]
 [update.github]

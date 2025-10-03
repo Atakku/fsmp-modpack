@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://pwcdn.fem.place/expanded_ecosphere-neoforge-3.4.1.1.jar"
-hash-format = "sha256"
-hash = "ee16e21c9c1ecccd0b41edf02c1e81f2efc66b2d0abca5c7758d2f4de7726b6d"
+hash-format = "sha512"
+hash = "538ce57a02238393f00c72d960345fa74990efaad077f3d2baf04636c3e74bac8bea97643d85605e5b6a714b8a9e03c5ac734359b162b30e44c8a6103c96fa25"

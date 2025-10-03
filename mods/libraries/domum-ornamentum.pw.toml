@@ -3,8 +3,8 @@ filename = "domum-ornamentum-1.0.221-snapshot-main.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8e8cc8280920421538636133fc0d676ffed27d7c"
+hash-format = "sha512"
+hash = "cac76215b98a77c8fe2bf49a14b64d59821c848c76cde02c2fe9f4b777f7fe91856b64057484ad643df8784c1b8447b80acc440332f8a6f1927d18c40e090466"
 mode = "metadata:curseforge"
 
 [update]

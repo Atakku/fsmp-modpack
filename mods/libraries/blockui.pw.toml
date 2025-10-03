@@ -3,8 +3,8 @@ filename = "blockui-1.0.206-1.21.1-snapshot.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "986af1e74d1240d2e5c63451731aab24c70b4d38"
+hash-format = "sha512"
+hash = "cba0795cb33f38b016db3627507062c316ffbc8b288fac02f471901083b1472ee05eb51680a9b1b529c8019d098556cdb3f36c1f53d4ebc986283e8cd8df93a2"
 mode = "metadata:curseforge"
 
 [update]

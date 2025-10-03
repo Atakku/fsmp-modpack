@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/J90dLs0h/versions/R7n8tG3L/end_villager_outpost-1.0.0-neoforge-1.21.1.jar"
-hash-format = "sha1"
-hash = "519db3ab64b92064036566f6ee71fd422d04d27e"
+hash-format = "sha512"
+hash = "016f8647f0f0760ac30af3a486eb4329b1d3a641b9ae79cfb313c45bf56a9cab97473557d03bb1da69416115a1740c2a572244a03e85eba96694d9f1d7bc0dfc"
 
 [update]
 [update.modrinth]

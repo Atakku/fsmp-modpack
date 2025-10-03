@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/t4Ybtys2/versions/51Eru4i8/mavapi-fabric-1.3.0-mc1.21.1.jar"
-hash-format = "sha1"
-hash = "55649dac0a13d67e37209333f23de6ff4041be86"
+hash-format = "sha512"
+hash = "894425d2cf268fec805ed3f4e5f8702b0180777af09c0ce872b297aabe54338419c4d7069d0b9cd2ecea3a86e985fc99b79e1e63509a0b4eb0bafaeb1c2f30b2"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2qXuuYu8/versions/cPNey2TM/schematicenergistics-1.21.1-1.3.0.jar"
-hash-format = "sha1"
-hash = "bd30d1fd6227805d870e3e406b88f31b2288a24f"
+hash-format = "sha512"
+hash = "bbdd23f13bd2897d640b2a45f17a70f89f44c9863cf085597a59c0694323d170baf56dc3cb9c7195369ddbfec3ac5ba63a6168cddb5caa556fdc833b0fbeb489"
 
 [update]
 [update.modrinth]

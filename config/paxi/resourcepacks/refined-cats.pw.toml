@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/XzvZ8pqC/versions/UBTuC30G/RefinedCatsDetailed_v2.1.8.zip"
-hash-format = "sha1"
-hash = "8dfedb650d968d43c69385a6d43eed7bf57d09d6"
+hash-format = "sha512"
+hash = "8aa8989cb9c7455a5058adb309518738877b00d077df037f740e6122bab4ffe86b96b58eeb3b8c8c3a01e2a12c14f056a5528fdd487b059ffb1e1374596469d5"
 
 [update]
 [update.modrinth]

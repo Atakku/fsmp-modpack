@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/kfyIqgJ6/appliedenergistics2-19.2.17.jar"
-hash-format = "sha1"
-hash = "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
+hash-format = "sha512"
+hash = "55edfd948366aff620881e0625e48c333a2cb847e73249bc0b588efbc4b86709992a8ffbca97ea387e270df4186fe7f74ee2f27b739f1c952e932becfb9dea33"
 
 [update]
 [update.modrinth]

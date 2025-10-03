@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wMgXLrSd/versions/c1vONsqP/create_mixed_casing-1.21.1-1.1.0.jar"
-hash-format = "sha1"
-hash = "318fdba591862cfa0c98dab3703010ba99e8c5f5"
+hash-format = "sha512"
+hash = "e4c183b38185080ac9244c2313ac92d892184862cc1daac5a60200c3e20a6c86ce2b7042ab87f9b51e0ed94988b3630089d246ede5e708a54b46a0259721c8b3"
 
 [update]
 [update.modrinth]

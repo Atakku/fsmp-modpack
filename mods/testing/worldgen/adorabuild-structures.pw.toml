@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rYlnn25U/versions/9B5xYkkN/adorabuild-structures-2.10.1-neoforge-1.21.3.jar"
-hash-format = "sha1"
-hash = "1273a6251b08bb93c909eb50485c8b04372c6ca4"
+hash-format = "sha512"
+hash = "14f688ec569764535e367cbafbadee86e4072d4a937602569ffc613c612ddfc958151d8e04cee6e852a0b950b68041f4cdcd7c15247e3cd6e1ac8c5a48b8ee3d"
 
 [update]
 [update.modrinth]

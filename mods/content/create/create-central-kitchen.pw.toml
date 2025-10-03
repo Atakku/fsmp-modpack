@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/btq68HMO/versions/9wJeYJJk/create-central-kitchen-2.2.3b.jar"
-hash-format = "sha1"
-hash = "fda94196d13d10c4c800d7ea964aa54048851fe0"
+hash-format = "sha512"
+hash = "c469830e20c892d6575dcc86710e20dd6ae64efa31f6965302959c4607b6c9c1341f027724f65d0264ad006b14f397035b8cf9dd3b40744babad9728b742fd53"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LUIHK4LD/versions/SDwio2oD/async-locator-refined-neoforge-1.21.1-1.5.0.jar"
-hash-format = "sha1"
-hash = "1bb64def7d35e549e23f52cfa351c7ccf0030ec3"
+hash-format = "sha512"
+hash = "df3bf2214466094e848fedd5a84241f17fcb156b5ad29322b20dbcc40f236c155f884eca677a9d3f78e89862abb0424be2f686c92bcd2189a2daf1b327518cb7"
 
 [update]
 [update.modrinth]

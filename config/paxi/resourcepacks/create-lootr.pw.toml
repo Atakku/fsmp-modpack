@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/avHOJfxd/versions/q5JhahnV/Create%20LootR%20Chest.zip"
-hash-format = "sha1"
-hash = "9e32930065d546e028fa5cd96bf6fdbc9dd4fb10"
+hash-format = "sha512"
+hash = "727b84c1f6253db41cb39f95e3b9ff875871ce3512cbf1da869ceaf43144c9e26409a361d57a196e2023bdbc42bb6c1d6e4317482199c93eb5ed27fd9ac65671"
 
 [update]
 [update.modrinth]

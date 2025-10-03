@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/C0bnFRAK/crittersandcompanions-neoforge-1.21.1-2.3.2.jar"
-hash-format = "sha1"
-hash = "a7e031ef7438b532674766a3eec9ffdb016c9245"
+hash-format = "sha512"
+hash = "e0bd92a45ea9fad49e6ede8aae35185be7e688192473ecc9e0137bd8a087a94c7e8340ba49b57d15c842616d7efac442d7194bf09351c70f75d4ecf28893ed27"
 
 [update]
 [update.modrinth]

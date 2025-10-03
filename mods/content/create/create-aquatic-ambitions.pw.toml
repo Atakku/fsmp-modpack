@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9SyaPzp7/versions/hiMMSQE6/create_aquatic_ambitions-1.21.1-2.0.1.jar"
-hash-format = "sha1"
-hash = "153924d8d16b0fa1d64670de6ad3cd5312b6b3f1"
+hash-format = "sha512"
+hash = "b0661d80321152f4070f9dec654a6d8ecf4cc50616a980e6af21a5538558c60acb63e9859e71ebab0682d7dd196ac8db0476a986383a8e335e877aed917fd284"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/RVIo5f6E/geckolib-neoforge-1.21.1-4.8.2.jar"
-hash-format = "sha1"
-hash = "b2d84a5ea8b8944be66dbf817f0d4aa3f494db7a"
+hash-format = "sha512"
+hash = "6b70d7dc11adb68cd590110c6b29de39eaae40b55f934026288a2018f6d529a2579124d0596825126db4a499f0dfc26248e4005a452bc1b0d4d05c0279e33602"
 
 [update]
 [update.modrinth]

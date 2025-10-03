@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PWcQ3kcp/versions/OOrLeZEH/exposure_catalog-neoforge-1.1.1.jar"
-hash-format = "sha1"
-hash = "78b947bbfbdde621dd82941b58cf13d31987e543"
+hash-format = "sha512"
+hash = "8b847928e3234829895e45b0f8454de9f3f98dd0dfec15287b06bd7e38ff2874cc20051d95c21a8e08ebaeb3b4640bb2437f07241eea5546187b05c2a8344545"
 
 [update]
 [update.modrinth]

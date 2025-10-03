@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2ACRRn3U/versions/8nRoiH0o/createmetalogistics-1.21.1-0.4.0.jar"
-hash-format = "sha1"
-hash = "1ae424dd6f0a0dd57871a6533815e442fd06a930"
+hash-format = "sha512"
+hash = "d10db3dadcef2ec2e6f7783841e4d7924b04e098161466db66567d066b2ab9468cb81c3181138d415e23f94d35921683b0573b6414c95b8063215fb079abf682"
 
 [update]
 [update.modrinth]

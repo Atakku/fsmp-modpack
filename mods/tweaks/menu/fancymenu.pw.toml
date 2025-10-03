@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/f5YVr9M0/fancymenu_neoforge_3.7.0_MC_1.21.1.jar"
-hash-format = "sha1"
-hash = "a7f7feeb0273ebfa0eafacc2ed3169d7abec8ef1"
+hash-format = "sha512"
+hash = "d0bc62f71faf92ece7adf38eeeb698e8d3b512810eaaf8e71b5dcb558bfc8e731291f9131f8f5af6fb90d2c148aef1e14a9f927e8155ba436040d765ee622cde"
 
 [update]
 [update.modrinth]

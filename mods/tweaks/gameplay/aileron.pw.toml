@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/b8kG1VGq/versions/XDz1C9KI/aileron-1.21.1-neoforge-1.1.4.jar"
-hash-format = "sha1"
-hash = "9fe97b808ccac3289644fc55ad364475434dfb2f"
+hash-format = "sha512"
+hash = "65fdd62ab143a09a5b0049996f6a65361a4447646d41fa1f092af8df85e3106eb531de07e32ce10ac29c318d1ff03427dde143abcf2e616d8bd2bccfb2f575c3"
 
 [update]
 [update.modrinth]

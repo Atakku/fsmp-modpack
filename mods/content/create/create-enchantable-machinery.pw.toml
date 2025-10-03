@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/eqrvp4NK/versions/Y7KuofME/createenchantablemachinery-3.4.2%2Bmc1.21.1-neoforge.jar"
-hash-format = "sha1"
-hash = "c9fa1a04c86b3bf3dacd190db0ad3858c9cf1c5e"
+hash-format = "sha512"
+hash = "b5019ca49a69589f103324428f6fac77e911ce7100d40fe211c5a60694de505f0ff0c9429ad4bd431d63316d647809fd9a8f698d9b32dfaffbecdf2199d33673"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "multipiston-1.2.57-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b04abee9f8b9163564448f5a538b84c8789152b8"
+hash-format = "sha512"
+hash = "2c42816db995ecd202b1b61dc748f712b914c9024b24f1c4137b2a9cb26bd5a743c4902c76f74d87f9d441d5a4c3282ad7c56c6e14532a3823649d09a2af67ce"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/bOBCZkCF/configurable-3.2.9%2B1.21.1-neoforge.jar"
-hash-format = "sha1"
-hash = "a031b28f2c8ede879c528036c3bedea3998e483c"
+hash-format = "sha512"
+hash = "6d4537f7b8f7fe05a79b389778b168fba235afcabc1a3ad3692c9444a2b95e08739be8e90663c859763b6bf6a4efa0dd6db5b8d3cd493041f120fe5e3aee87d4"
 
 [update]
 [update.modrinth]

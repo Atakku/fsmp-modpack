@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/8S3qbPSr/versions/YTmnnx11/CCSecureBoot-1.0.1-neoforge-1.21.1.jar"
-hash-format = "sha1"
-hash = "e3588e1c591591cbdc9fd9abd0cdba3d3a2819d4"
+hash-format = "sha512"
+hash = "0ee9a36bcda36b4179ab8de7b5b0fa5ec4256f4fa428e88b24f290fc9835e122845551c64dd48e9c818c3675d86b9eaef0714640aec3ab1f1b20690be1408a46"
 
 [update]
 [update.modrinth]

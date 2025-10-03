@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ETKe9DNz/versions/qlxzJokn/snowballsfreezemobs-1.21.1-3.8.jar"
-hash-format = "sha1"
-hash = "ff0a049894e7ca86bb7c99e50f7e48517c9683a6"
+hash-format = "sha512"
+hash = "e46189813f581e879f125b1d11d08fe347753d5431d599f372755b01744e04ba712a0ebb11ca43aeca55145fb39d1c12682cc6709d58aa0a62955f888ac81175"
 
 [update]
 [update.modrinth]

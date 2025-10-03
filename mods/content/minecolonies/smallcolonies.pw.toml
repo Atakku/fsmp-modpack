@@ -3,8 +3,8 @@ filename = "smallcolonies 1.21.1 v1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5ff54d155398d94efbbb6b67b5d877f50c427a2d"
+hash-format = "sha512"
+hash = "709c6636924d75c328604d02d3aa8bc00d9dae6bd225a895a450f91be41bd6d87eca3049619f77420e2dafcd3b914f3e8653effdc63ba821d844f5b641e22145"
 mode = "metadata:curseforge"
 
 [update]

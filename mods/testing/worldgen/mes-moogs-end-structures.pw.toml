@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/r4PuRGfV/versions/cO2Hw6EY/mes-1.4.6-1.21.jar"
-hash-format = "sha1"
-hash = "3d49d77db1d1264216c55f476ed1030dc61a1114"
+hash-format = "sha512"
+hash = "425295029d0ec2e93b368708c2ac7e84fab9445d6e5dfcc7254331245792cf8d357fae942bba424181f1743317989f195d965c90333cb51e66e642f05d9907d3"
 
 [update]
 [update.modrinth]
