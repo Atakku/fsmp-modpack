@@ -101,6 +101,18 @@ file = "mods/content/applied-energistics/schematic-energistics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/nightlights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/shutters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/snowy-spirit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
@@ -234,6 +246,94 @@ metafile = true
 
 [[files]]
 file = "mods/content/farmers-delight/some-assembly-required.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/minecolonies/byzantine-styles-pack-for-minecolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/minecolonies/minecolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/minecolonies/smallcolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/minecolonies/stylecolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/creeper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/friends-and-foes-flowery-mooblooms-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/friends-and-foes-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/mavm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/ribbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/snuffles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/advancement-frames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/endrem.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/joy-of-painting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/mimi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/sleep-tight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/straw-statues.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/leashedplayer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/moyai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
@@ -882,14 +982,6 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/chunky.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/custom/fsmp-bridge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/utilities/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
