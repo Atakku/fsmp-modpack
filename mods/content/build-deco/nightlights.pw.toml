@@ -1,0 +1,13 @@
+name = "Night Lights"
+filename = "nightlights-neoforge-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s7pMb898/versions/VRPk6eWv/nightlights-neoforge-1.3.0.jar"
+hash-format = "sha512"
+hash = "aebb7921ebcef7cf4700d21f533fd0b1f0fe22b0e42ebf73bcc664892ecdd984023ea8878010197f1374d60d388467d377c0b3fd828c52b2ce59acf5a0d8ab93"
+
+[update]
+[update.modrinth]
+mod-id = "s7pMb898"
+version = "VRPk6eWv"

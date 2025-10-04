@@ -1,0 +1,13 @@
+name = "Moyai"
+filename = "moyai-1.21-2.1.7-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z7WhFkyW/versions/SyhonbVK/moyai-1.21-2.1.7-neoforge.jar"
+hash-format = "sha512"
+hash = "9c22d5941b066e8c2f92d1afc4be206f2ce41b834a64b15b678455dfd4231e0eaf52482a8c93cec0ae23aafd92536ddc73fe5a94092e67c2f090efa48e778717"
+
+[update]
+[update.modrinth]
+mod-id = "z7WhFkyW"
+version = "SyhonbVK"

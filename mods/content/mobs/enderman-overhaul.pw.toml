@@ -1,0 +1,13 @@
+name = "Enderman Overhaul"
+filename = "endermanoverhaul-neoforge-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lq6ojcWv/versions/MQTydAay/endermanoverhaul-neoforge-1.21.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "40fd9fd351f18cea013cb2a4d760df74f857c0d8faf75a3a91d34e19009f0898d58ceb20514079ff868d3bbc85b2dbb0a5a08812a408ba13ab3daa2d3c1eeaca"
+
+[update]
+[update.modrinth]
+mod-id = "Lq6ojcWv"
+version = "MQTydAay"

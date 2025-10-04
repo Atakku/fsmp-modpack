@@ -1,0 +1,13 @@
+name = "Creeper Overhaul"
+filename = "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MI1LWe93/versions/HNrAYCLH/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
+hash-format = "sha512"
+hash = "880ca9d8d23b527d3583cbe7fa399b2a26421b6ccba1deacd666cf9b61f4af4378157f404ab3789a7ae9c3c8693e2b7f6c8c532e703e5bb0e1881b9cc2879a6e"
+
+[update]
+[update.modrinth]
+mod-id = "MI1LWe93"
+version = "HNrAYCLH"
