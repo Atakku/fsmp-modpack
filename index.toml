@@ -93,19 +93,11 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/schematic-energistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/build-deco/nightlights.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/build-deco/shutters.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/build-deco/snowy-spirit.pw.toml"
 metafile = true
 
 [[files]]
@@ -242,94 +234,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/farmers-delight/some-assembly-required.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/minecolonies/byzantine-styles-pack-for-minecolonies.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/minecolonies/minecolonies.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/minecolonies/smallcolonies.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/minecolonies/stylecolonies.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/mobs/creeper-overhaul.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/mobs/critters-and-companions.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/mobs/enderman-overhaul.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/mobs/friends-and-foes-flowery-mooblooms-forge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/mobs/friends-and-foes-forge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/mobs/mavm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/mobs/ribbits.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/mobs/snuffles.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/other/advancement-frames.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/other/endrem.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/other/joy-of-painting.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/other/mimi.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/other/sleep-tight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/other/straw-statues.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/silly/leashedplayer.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/silly/moyai.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/silly/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
@@ -594,6 +498,386 @@ metafile = true
 
 [[files]]
 file = "mods/testing/worldgen/mss-moogs-soaring-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/coolrain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/sound.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/distraction-free-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-create-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-for-create-stock.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emiffect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/aileron.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/armor-statues.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/cat_jam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/cerbons-better-beacons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/companion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/crawl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/crops-love-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/door-knocking.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/ironfish.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/lmd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/monsters-in-the-closet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/no-enderman-grief.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/no-telemetry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/screenshot-to-clipboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/showcase-item.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/shulker-drops-two.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/skippy-pearls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/snow-real-magic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/snow-under-trees.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/snowballs-freeze-mobs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/softer-hay-bales.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/treechop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/dark-window-bar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/distinguished-potions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/easy-magic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/inventory-essentials.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/scholar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/better-ping-display.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/chatimage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/jade-addons-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/now-playing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/overflowing-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/pick-up-notifier.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/pronounmc-neo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/structure-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/journey/journeymap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaero-train-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/catalogue.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/desired-servers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/exportstats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/hide-experimental-warning.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/no-resource-pack-warnings-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/searchstats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/figurasvc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/bettergrassify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/colorwheel-patcher.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/colorwheel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/distanthorizons-server.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/euphoria-patches.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/highlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/particular-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/seamless.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/sodium-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/visuality-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/voice/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
