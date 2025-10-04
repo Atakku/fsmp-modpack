@@ -1,0 +1,13 @@
+name = "Shutters"
+filename = "shutter-2.1.6-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NjHNA0vG/versions/xUlKuQLJ/shutter-2.1.6-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "988b3b6287a0aa489ffdfa3f2c73356ee010e0693dca844f97bae7f0db733ad196d928e7f03a82a8593ff4891f4ab854f116741012621be3a83d47ca8db84691"
+
+[update]
+[update.modrinth]
+mod-id = "NjHNA0vG"
+version = "xUlKuQLJ"

@@ -1,0 +1,13 @@
+name = "LeashedPlayer"
+filename = "leashedplayer-0.0.4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MxUd9Fkf/versions/W3kW3c9h/leashedplayer-0.0.4.0.4.jar"
+hash-format = "sha512"
+hash = "7db4a5b973c1c7df28aa20045aa88c2f121bfe2bf4a38cb52c0926a82f00655ec07019e3cb471368dcc452733c68e4322b11117aa108c369746e99692b6e0586"
+
+[update]
+[update.modrinth]
+mod-id = "MxUd9Fkf"
+version = "W3kW3c9h"

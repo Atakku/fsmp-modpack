@@ -98,6 +98,10 @@ file = "mods/content/build-deco/nightlights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/shutters.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/snowy-spirit.pw.toml"
 metafile = true
 
@@ -286,6 +290,10 @@ file = "mods/content/mobs/snuffles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/advancement-frames.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/endrem.pw.toml"
 metafile = true
 
@@ -302,7 +310,15 @@ file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/sleep-tight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/straw-statues.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/leashedplayer.pw.toml"
 metafile = true
 
 [[files]]
