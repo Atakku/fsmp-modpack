@@ -93,10 +93,6 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
-file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/schematic-energistics.pw.toml"
 metafile = true
 
