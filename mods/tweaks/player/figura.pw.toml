@@ -1,8 +1,0 @@
-name = "Figura"
-filename = "figura-0.1.5+1.21.1-neoforge-patched.jar"
-side = "client"
-
-[download]
-url = "https://pwcdn.fem.place/figura-0.1.5+1.21.1-neoforge-patched.jar"
-hash-format = "sha512"
-hash = "68bf1695baa2c624e22e934267666140bb0eb6299463de80ce878e955438ad920ae8c0179174be8294bd819ed28ec0a76199ba0402417ebbb9f705b92d459688"
