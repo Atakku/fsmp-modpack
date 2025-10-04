@@ -1,0 +1,13 @@
+name = "Polymorphic Energistics"
+filename = "polyeng-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VS1a14jA/versions/oxmWQs9t/polyeng-0.4.1.jar"
+hash-format = "sha512"
+hash = "7a2838f275ea229177b188632d482959408ab0caef274dd39bf4e33f49967d382137536127f75817649d58b3616b50b0d2fd0afff0d75eb86cdd947043a60694"
+
+[update]
+[update.modrinth]
+mod-id = "VS1a14jA"
+version = "oxmWQs9t"

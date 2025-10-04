@@ -1,0 +1,13 @@
+name = "Structure Credits"
+filename = "structurecredits-1.21.1-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9VEHG3zg/versions/B39HaYCH/structurecredits-1.21.1-3.0.jar"
+hash-format = "sha512"
+hash = "2030990d733e6e20a3e3e2700f0f69212bf5b59cdc7faaff6109eb088f085cc15e00d6636ae81ca533e010722876aca9743f2a51ef626aebeff5cb9e62c8d3cb"
+
+[update]
+[update.modrinth]
+mod-id = "9VEHG3zg"
+version = "B39HaYCH"

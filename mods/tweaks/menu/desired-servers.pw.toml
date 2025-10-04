@@ -1,0 +1,13 @@
+name = "Desired Servers"
+filename = "desiredservers-neoforge-1.21.1-1.6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GDpe4LHD/versions/NujdMPdL/desiredservers-neoforge-1.21.1-1.6.0.jar"
+hash-format = "sha512"
+hash = "86b6e64cc3c9a9620064526a997dd9933d4298a1bbf12169c21c9db3f05be5d2e6b6c22870bb34558317fe4b15cff606db6074c93a6d3bb53d4a3df9201570cc"
+
+[update]
+[update.modrinth]
+mod-id = "GDpe4LHD"
+version = "NujdMPdL"

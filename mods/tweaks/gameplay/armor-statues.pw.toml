@@ -1,0 +1,13 @@
+name = "Armor Statues"
+filename = "ArmorStatues-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/SGpwIu7v/ArmorStatues-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "4160dd026b9dc03fb9c24cf8b1cac421f4393e2360862fe482ca182a3f379b70f92c0bc16bd5d8abdea826388a507fe9c9b2cd014e983ef4b2f97f276f3adc1a"
+
+[update]
+[update.modrinth]
+mod-id = "bbGCtEvb"
+version = "SGpwIu7v"

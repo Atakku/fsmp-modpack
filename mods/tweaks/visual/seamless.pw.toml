@@ -1,0 +1,13 @@
+name = "Seamless"
+filename = "seamless-2.3.2-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rhyHyQke/versions/vtqXlAWL/seamless-2.3.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "59fc062413f60134218e602f6dcc1d97ddf39d132ec437ed668cd4ecb03cf21449d60c8201e4d8409b145dd26aeee7d51da677c8b982034c12434053d7a77318"
+
+[update]
+[update.modrinth]
+mod-id = "rhyHyQke"
+version = "vtqXlAWL"

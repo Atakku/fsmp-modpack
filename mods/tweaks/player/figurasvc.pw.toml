@@ -1,0 +1,13 @@
+name = "FiguraSVC"
+filename = "figurasvc-2.0+1.21.x-multiloader.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zDF68701/versions/fV3NziSK/figurasvc-2.0%2B1.21.x-multiloader.jar"
+hash-format = "sha512"
+hash = "a14f6a098c0e8fc231e687e878512a731b070340668781381139775bbcec3e6c2d41a61aa61d33d2feb2d71a005111d6443f66ea85622ac8b77d9ab28b050395"
+
+[update]
+[update.modrinth]
+mod-id = "zDF68701"
+version = "fV3NziSK"

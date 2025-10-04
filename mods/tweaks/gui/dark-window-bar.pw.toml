@@ -1,0 +1,13 @@
+name = "Dark Window Bar"
+filename = "darkwindowbar-neoforge-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H7ktFfSH/versions/W4Al2lHo/darkwindowbar-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "c1c85e9d09754afa46c551e5af7d364749029dbf11edb1a3e0d12b7ad94af2912a6543289aa0335c4cc0064bd5bc980b5f5d09d6947754b9a3538f9b7c55fb5c"
+
+[update]
+[update.modrinth]
+mod-id = "H7ktFfSH"
+version = "W4Al2lHo"

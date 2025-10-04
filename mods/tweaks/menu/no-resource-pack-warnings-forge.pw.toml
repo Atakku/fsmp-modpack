@@ -1,0 +1,13 @@
+name = "No Resource Pack Warnings forge"
+filename = "no_resource_pack_warnings_forge-1.21-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cWtswsPK/versions/WOEnyYmM/no_resource_pack_warnings_forge-1.21-1.0.0.jar"
+hash-format = "sha512"
+hash = "19bf3c42f674d29c1fba67c1fe87c2e7b73894ba7c87b2ff6c39fde1395cb652d67588e579ea7ceff49d987ddc9b30d5140412555262b4d47065429747e3e33e"
+
+[update]
+[update.modrinth]
+mod-id = "cWtswsPK"
+version = "WOEnyYmM"

@@ -1,0 +1,13 @@
+name = "cat_jam"
+filename = "cat_jam-neoforge-mc1.21-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x3s69afN/versions/1gEvfaqg/cat_jam-neoforge-mc1.21-1.3.1.jar"
+hash-format = "sha512"
+hash = "aeae13607de32330b1afe9199c30619a8b54769c15a42475de5408c5b7539e89b19e47125552862a2d5dfda42f46f9bd85bc232a5de3d1beea0d7993436d3ab7"
+
+[update]
+[update.modrinth]
+mod-id = "x3s69afN"
+version = "1gEvfaqg"

@@ -1,0 +1,13 @@
+name = "Cool Rain"
+filename = "coolrain-1.1.0-1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iDyqnQLT/versions/EEZWHM0B/coolrain-1.1.0-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "272504dea48304a2d7e940e9f45594eb62adbe57cc25215bd0ceb3fb23d467c14e150020a83989a1560d589714175e39438cdc48d4c90563f2bbf4b48b72c773"
+
+[update]
+[update.modrinth]
+mod-id = "iDyqnQLT"
+version = "EEZWHM0B"
