@@ -1,0 +1,13 @@
+name = "Transparency World Border"
+filename = "Transparency_World_Border-1.21.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B17lf3NG/versions/uFRbYutE/Transparency_World_Border-1.21.x.zip"
+hash-format = "sha512"
+hash = "f8197b1c9171b76f85197a0001a47bc358cd405a6a9c0e8bb89b0907b75317dad42e02e7a9553182e69dcec3ae5abf4985540dd557f512d8897baef227fdd89e"
+
+[update]
+[update.modrinth]
+mod-id = "B17lf3NG"
+version = "uFRbYutE"
