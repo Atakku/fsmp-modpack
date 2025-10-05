@@ -153,6 +153,10 @@ file = "mods/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-bitterballen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-central-kitchen.pw.toml"
 metafile = true
 
@@ -693,7 +697,7 @@ file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/gameplay/piggybacks.pw.toml"
+file = "mods/tweaks/gameplay/player-sit.pw.toml"
 metafile = true
 
 [[files]]

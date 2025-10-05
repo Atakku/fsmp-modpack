@@ -1,0 +1,13 @@
+name = "Player Sit"
+filename = "player-sit-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hpJmH4zA/versions/KCh5OgcH/player-sit-v1.0.0.jar"
+hash-format = "sha512"
+hash = "439da155bd8e392449b2b86d117fa654085abcb00b2d0c5938f8bb368c6c52547c68c69aa99b8a9b38c2effd6a2f0c0bb25723d251c22e39ca3fcbe95006a759"
+
+[update]
+[update.modrinth]
+mod-id = "hpJmH4zA"
+version = "KCh5OgcH"

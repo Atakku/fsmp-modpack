@@ -1,20 +1,20 @@
-[flavor_groups.minimap]
-name = "Minimap"
-description = "Pick your preferred minimap mod:"
+[flavor_groups.map]
+name = "Map mod"
+description = "Pick your preferred map mod:"
 side = "client"
 
-[[flavor_groups.minimap.choices]]
-id = "minimap_xaero"
-name = "Xaero's Minimap"
+[[flavor_groups.map.choices]]
+id = "map_xaero"
+name = "Xaero"
 description = "The recommended choice"
 
-[[flavor_groups.minimap.choices]]
-id = "minimap_journeymap"
-name = "Journeymap"
+[[flavor_groups.map.choices]]
+id = "map_journey"
+name = "Journey"
 description = "An alternative"
 
-[metafile.minimap_xaero]
+[metafile.map_xaero]
 flavors = ["xaero-train-map", "xaeros-minimap", "xaeros-world-map"]
 
-[metafile.minimap_journeymap]
+[metafile.map_journey]
 flavors = ["journeymap", "xaeros-minimap", "xaeros-world-map"]
