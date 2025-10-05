@@ -613,38 +613,6 @@ file = "mods/tweaks/audio/sound.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/emi/distraction-free-recipes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/emi/emi-create-schematics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/emi/emi-enchanting.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/emi/emi-for-create-stock.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/emi/emi-ores.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/emi/emi.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/emi/emiffect.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/emi/extra-mod-integrations.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/gameplay/aileron.pw.toml"
 metafile = true
 
@@ -785,6 +753,10 @@ file = "mods/tweaks/gui/distinguished-potions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/distraction-free-recipes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/easy-anvils.pw.toml"
 metafile = true
 
@@ -793,7 +765,39 @@ file = "mods/tweaks/gui/easy-magic.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/emi/emi-create-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/emi/emi-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/emi/emi-for-create-stock.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/emi/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/emi/emiffect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/emi/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/inventory-essentials.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/jei/jei.pw.toml"
 metafile = true
 
 [[files]]
