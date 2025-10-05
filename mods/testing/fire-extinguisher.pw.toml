@@ -1,0 +1,13 @@
+name = "Fire Extinguisher 🧯"
+filename = "fire_extinguisher-neoforge-1.21.1-8.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GlhPy70K/versions/oKiklIHX/fire_extinguisher-neoforge-1.21.1-8.3.0.jar"
+hash-format = "sha512"
+hash = "332ce92ef62e93217817db884da80731e81bf92609de82d67423d0a45a99efc0e8ba140e445cfba66978d1f7743906c490ca9124ceb384979c6412f94765dfa8"
+
+[update]
+[update.modrinth]
+mod-id = "GlhPy70K"
+version = "oKiklIHX"
