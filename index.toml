@@ -10,6 +10,9 @@ file = "config/create-server.toml"
 file = "config/desiredservers/desiredservers.json"
 
 [[files]]
+file = "config/emojiful-client.toml"
+
+[[files]]
 file = "config/expanded_ecosphere/config.json5"
 
 [[files]]
