@@ -1069,4 +1069,7 @@ file = "shaderpacks/complementary-unbound.pw.toml"
 metafile = true
 
 [[files]]
+file = "unsup.ini"
+
+[[files]]
 file = "unsup.toml"
