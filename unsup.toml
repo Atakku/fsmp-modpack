@@ -13,8 +13,14 @@ id = "map_journey"
 name = "Journey"
 description = "An alternative"
 
-[metafile.map_xaero]
-flavors = ["xaero-train-map", "xaeros-minimap", "xaeros-world-map"]
+[metafile.xaero-train-map]
+flavors = "map_xaero"
+[metafile.xaeros-minimap]
+flavors = "map_xaero"
+[metafile.xaeros-world-map]
+flavors = "map_xaero"
 
-[metafile.map_journey]
-flavors = ["journeylocator", "journeymap"]
+[metafile.journeylocator]
+flavors = "map_journey"
+[metafile.journeymap]
+flavors = "map_journey"

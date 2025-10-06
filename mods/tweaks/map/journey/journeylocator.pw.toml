@@ -1,7 +1,6 @@
 name = "JourneyLocator: Xaero Compat"
 filename = "journeylocator-neoforge-1.0.0.jar"
 side = "client"
-optional = true
 
 [download]
 url = "https://cdn.modrinth.com/data/7WPPrL4w/versions/ApkNV7i3/journeylocator-neoforge-1.0.0.jar"
