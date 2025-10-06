@@ -243,10 +243,6 @@ file = "mods/content/exposure/exposure-catalog.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/exposure/exposure-cmos.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/exposure/exposure-expanded.pw.toml"
 metafile = true
 
