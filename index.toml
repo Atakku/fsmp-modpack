@@ -4,10 +4,19 @@ hash-format = "sha256"
 file = "config/DistantHorizons.toml"
 
 [[files]]
+file = "config/aileron.json"
+
+[[files]]
+file = "config/craftpresence.json"
+
+[[files]]
 file = "config/create-server.toml"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
 
 [[files]]
 file = "config/emojiful-client.toml"
@@ -70,6 +79,9 @@ metafile = true
 
 [[files]]
 file = "config/ribbits-neoforge-1_21_1.toml"
+
+[[files]]
+file = "config/solstice/config.conf"
 
 [[files]]
 file = "config/tectonic.json"
