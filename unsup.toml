@@ -47,24 +47,24 @@ choices = [
 ]
 
 [metafile]
-xaero-train-map.flavors = "map_xaero"
-xaeros-minimap.flavors = "map_xaero"
-xaeros-world-map.flavors = "map_xaero"
+xaero-train-map.flavors = ["map_xaero"]
+xaeros-minimap.flavors = ["map_xaero"]
+xaeros-world-map.flavors = ["map_xaero"]
 
-journeylocator.flavors = "map_journey"
-journeymap.flavors = "map_journey"
+journeylocator.flavors = ["map_journey"]
+journeymap.flavors = ["map_journey"]
 
-distanthorizons.flavors = "dh_on"
+distanthorizons.flavors = ["dh_on"]
 
-colorwheel-patcher.flavors = "iris_on"
-colorwheel.flavors = "iris_on"
-euphoria-patches.flavors = "iris_on"
-iris.flavors = "iris_on"
-complementary-reimagined.flavors = "iris_on"
-complementary-unbound.flavors = "iris_on"
+colorwheel-patcher.flavors = ["iris_on"]
+colorwheel.flavors = ["iris_on"]
+euphoria-patches.flavors = ["iris_on"]
+iris.flavors = ["iris_on"]
+complementary-reimagined.flavors = ["iris_on"]
+complementary-unbound.flavors = ["iris_on"]
 
-particular-reforged.flavors = "particular_on"
+particular-reforged.flavors = ["particular_on"]
 
-visuality-forge.flavors = "visuality_on"
+visuality-forge.flavors = ["visuality_on"]
 
-sodium-dynamic-lights.flavors = "dynamic_on"
+sodium-dynamic-lights.flavors = ["dynamic_on"]
