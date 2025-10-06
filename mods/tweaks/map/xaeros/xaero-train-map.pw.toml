@@ -1,6 +1,7 @@
 name = "Xaero Train Map"
 filename = "xaerotrainmap-1.0.0.jar"
 side = "client"
+optional = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Ov2r3aVY/versions/mgDpAA4x/xaerotrainmap-1.0.0.jar"
