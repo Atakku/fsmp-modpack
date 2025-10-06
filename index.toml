@@ -891,10 +891,6 @@ file = "mods/tweaks/hud/pick-up-notifier.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/hud/pronounmc-neo.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/hud/structure-credits.pw.toml"
 metafile = true
 
@@ -1000,10 +996,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/colorwheel.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/visual/distanthorizons-server.pw.toml"
 metafile = true
 
 [[files]]

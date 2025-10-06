@@ -1,26 +1,62 @@
 [flavor_groups.map]
 name = "Map mod"
-description = "Pick your preferred map mod:"
 side = "client"
+choices = [
+  { id = "map_xaero", name = "Xaero" },
+  { id = "map_journey", name = "Journey" },
+]
+metafile.xaero-train-map.flavors = "map_xaero"
+metafile.xaeros-minimap.flavors = "map_xaero"
+metafile.xaeros-world-map.flavors = "map_xaero"
+metafile.journeylocator.flavors = "map_journey"
+metafile.journeymap.flavors = "map_journey"
 
-[[flavor_groups.map.choices]]
-id = "map_xaero"
-name = "Xaero"
-description = "The recommended choice"
+[flavor_groups.dh]
+name = "Distant Horizons"
+side = "client"
+choices = [
+  { id = "dh_on", name = "Enabled" },
+  { id = "dh_off", name = "Disabled" },
+]
+metafile.distanthorizons.flavors = "dh_on"
 
-[[flavor_groups.map.choices]]
-id = "map_journey"
-name = "Journey"
-description = "An alternative"
+[flavor_groups.iris]
+name = "Iris"
+side = "client"
+choices = [
+  { id = "iris_on", name = "Enabled" },
+  { id = "iris_off", name = "Disabled" },
+]
+metafile.colorwheel-patcher.flavors = "iris_on"
+metafile.colorwheel.flavors = "iris_on"
+metafile.euphoria-patches.flavors = "iris_on"
+metafile.iris.flavors = "iris_on"
+metafile.complementary-reimagined.flavors = "iris_on"
+metafile.complementary-unbound.flavors = "iris_on"
 
-[metafile.xaero-train-map]
-flavors = "map_xaero"
-[metafile.xaeros-minimap]
-flavors = "map_xaero"
-[metafile.xaeros-world-map]
-flavors = "map_xaero"
+[flavor_groups.particular]
+name = "Particular"
+side = "client"
+choices = [
+  { id = "particular_on", name = "Enabled" },
+  { id = "particular_off", name = "Disabled" },
+]
+metafile.particular-reforged.flavors = "particular_on"
 
-[metafile.journeylocator]
-flavors = "map_journey"
-[metafile.journeymap]
-flavors = "map_journey"
+[flavor_groups.visuality]
+name = "Visuality"
+side = "client"
+choices = [
+  { id = "visuality_on", name = "Enabled" },
+  { id = "visuality_off", name = "Disabled" },
+]
+metafile.visuality-forge.flavors = "visuality_on"
+
+[flavor_groups.dynamic]
+name = "Dynamic Lights"
+side = "client"
+choices = [
+  { id = "dynamic_on", name = "Enabled" },
+  { id = "dynamic_off", name = "Disabled" },
+]
+metafile.sodium-dynamic-lights.flavors = "dynamic_on"
