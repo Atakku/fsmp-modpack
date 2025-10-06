@@ -17,4 +17,4 @@ description = "An alternative"
 flavors = ["xaero-train-map", "xaeros-minimap", "xaeros-world-map"]
 
 [metafile.map_journey]
-flavors = ["journeymap", "xaeros-minimap", "xaeros-world-map"]
+flavors = ["journeylocator", "journeymap"]

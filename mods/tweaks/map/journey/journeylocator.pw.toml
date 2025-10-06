@@ -1,0 +1,13 @@
+name = "JourneyLocator: Xaero Compat"
+filename = "journeylocator-neoforge-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7WPPrL4w/versions/ApkNV7i3/journeylocator-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "0017e44134b61ccb39ef1140a82d6a26781cc093fa92828a5ca95ca92168dd9946bec87f3c7de29a4b778c0fbc4ce476c98c81c0978060148a25badade0a3537"
+
+[update]
+[update.modrinth]
+mod-id = "7WPPrL4w"
+version = "ApkNV7i3"

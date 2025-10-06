@@ -243,6 +243,10 @@ file = "mods/content/exposure/exposure-catalog.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/exposure/exposure-cmos.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/exposure/exposure-expanded.pw.toml"
 metafile = true
 
@@ -892,6 +896,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/structure-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/journey/journeylocator.pw.toml"
 metafile = true
 
 [[files]]
