@@ -1,13 +1,13 @@
 name = "Exposure: CMOS"
-filename = "exposure-cmos-neoforge-1.0.2.jar"
+filename = "exposure-cmos-neoforge-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JE9rxPsT/versions/lW4MAyhl/exposure-cmos-neoforge-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/JE9rxPsT/versions/Of8NqoDL/exposure-cmos-neoforge-1.0.3.jar"
 hash-format = "sha512"
-hash = "38a8bb6ecf095b9e8abbba7e4e55d0c820dbc386a39cc8f94b3f4aa7c947473c5aeab13bbb7e7595d6ea53cfe91c6b5a41d2f114821c769ef651525cbe8ab721"
+hash = "42c63e9d4645c60f429bdcf38ab6f291522dd255403b6ec6cdd29ec655b1a94f66bb369e515525ccaec6d33ec8fc374dd2f76d5a2c5454e6db00275dbc4c3960"
 
 [update]
 [update.modrinth]
 mod-id = "JE9rxPsT"
-version = "lW4MAyhl"
+version = "Of8NqoDL"
