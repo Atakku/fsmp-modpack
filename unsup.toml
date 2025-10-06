@@ -62,7 +62,7 @@ flavors = "visuality_on"
 [flavor_groups.dynamic]
 name = "Dynamic Lights"
 side = "client"
-choices = ["dynlight_on", "dynlight_off"]
+choices = ["dynamic_on", "dynamic_off"]
 
 [metafile.sodium-dynamic-lights]
-flavors = "dynlight_on"
+flavors = "dynamic_on"
