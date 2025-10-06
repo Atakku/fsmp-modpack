@@ -5,11 +5,6 @@ choices = [
   { id = "map_xaero", name = "Xaero" },
   { id = "map_journey", name = "Journey" },
 ]
-metafile.xaero-train-map.flavors = "map_xaero"
-metafile.xaeros-minimap.flavors = "map_xaero"
-metafile.xaeros-world-map.flavors = "map_xaero"
-metafile.journeylocator.flavors = "map_journey"
-metafile.journeymap.flavors = "map_journey"
 
 [flavor_groups.dh]
 name = "Distant Horizons"
@@ -18,7 +13,6 @@ choices = [
   { id = "dh_on", name = "Enabled" },
   { id = "dh_off", name = "Disabled" },
 ]
-metafile.distanthorizons.flavors = "dh_on"
 
 [flavor_groups.iris]
 name = "Iris"
@@ -27,12 +21,6 @@ choices = [
   { id = "iris_on", name = "Enabled" },
   { id = "iris_off", name = "Disabled" },
 ]
-metafile.colorwheel-patcher.flavors = "iris_on"
-metafile.colorwheel.flavors = "iris_on"
-metafile.euphoria-patches.flavors = "iris_on"
-metafile.iris.flavors = "iris_on"
-metafile.complementary-reimagined.flavors = "iris_on"
-metafile.complementary-unbound.flavors = "iris_on"
 
 [flavor_groups.particular]
 name = "Particular"
@@ -41,7 +29,6 @@ choices = [
   { id = "particular_on", name = "Enabled" },
   { id = "particular_off", name = "Disabled" },
 ]
-metafile.particular-reforged.flavors = "particular_on"
 
 [flavor_groups.visuality]
 name = "Visuality"
@@ -50,7 +37,6 @@ choices = [
   { id = "visuality_on", name = "Enabled" },
   { id = "visuality_off", name = "Disabled" },
 ]
-metafile.visuality-forge.flavors = "visuality_on"
 
 [flavor_groups.dynamic]
 name = "Dynamic Lights"
@@ -59,4 +45,26 @@ choices = [
   { id = "dynamic_on", name = "Enabled" },
   { id = "dynamic_off", name = "Disabled" },
 ]
-metafile.sodium-dynamic-lights.flavors = "dynamic_on"
+
+[metafile]
+xaero-train-map.flavors = "map_xaero"
+xaeros-minimap.flavors = "map_xaero"
+xaeros-world-map.flavors = "map_xaero"
+
+journeylocator.flavors = "map_journey"
+journeymap.flavors = "map_journey"
+
+distanthorizons.flavors = "dh_on"
+
+colorwheel-patcher.flavors = "iris_on"
+colorwheel.flavors = "iris_on"
+euphoria-patches.flavors = "iris_on"
+iris.flavors = "iris_on"
+complementary-reimagined.flavors = "iris_on"
+complementary-unbound.flavors = "iris_on"
+
+particular-reforged.flavors = "particular_on"
+
+visuality-forge.flavors = "visuality_on"
+
+sodium-dynamic-lights.flavors = "dynamic_on"
