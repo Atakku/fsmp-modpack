@@ -433,6 +433,10 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-man-of-many-planes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
@@ -686,6 +690,18 @@ metafile = true
 
 [[files]]
 file = "mods/testing/fire-extinguisher.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/immersive-aircraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/man-of-many-planes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/plane-advancements.pw.toml"
 metafile = true
 
 [[files]]
