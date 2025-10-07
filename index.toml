@@ -19,6 +19,9 @@ file = "config/desiredservers/desiredservers.json"
 file = "config/do_a_barrel_roll-server.json"
 
 [[files]]
+file = "config/dynamicview.json"
+
+[[files]]
 file = "config/emojiful-client.toml"
 
 [[files]]
@@ -82,6 +85,9 @@ file = "config/ribbits-neoforge-1_21_1.toml"
 
 [[files]]
 file = "config/solstice/config.conf"
+
+[[files]]
+file = "config/supplementaries-common.toml"
 
 [[files]]
 file = "config/tectonic.json"
@@ -236,10 +242,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/create/escalated.pw.toml"
 metafile = true
 
 [[files]]
@@ -536,6 +538,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/txnilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/unilib.pw.toml"
 metafile = true
 
 [[files]]

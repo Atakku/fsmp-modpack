@@ -1,0 +1,13 @@
+name = "UniLib"
+filename = "UniLib-1.1.1+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/fe7EyLAA/UniLib-1.1.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "f7908601ce731811a423301563072143c585ea78630b3d09c6bdf9a09b417bddfb0e66b394029f62d92680318ef186857b080c2fb3f53dbd93b0eb2649867332"
+
+[update]
+[update.modrinth]
+mod-id = "nT86WUER"
+version = "fe7EyLAA"
