@@ -1,0 +1,8 @@
+name = "figura_gn68"
+filename = "GN68 - ena-bbq (Github).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/GN68%20-%20ena-bbq%20%28Github%29.zip"
+hash-format = "sha256"
+hash = "49355a695773939e532a578e14e048f9422ea27cf0ac5358dce01bee1b7b843c"

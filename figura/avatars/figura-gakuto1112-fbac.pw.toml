@@ -1,0 +1,8 @@
+name = "figura_gakuto1112_fbac"
+filename = "Gakuto1112 - FiguraBlueArchiveCharacters (Github).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/Gakuto1112%20-%20FiguraBlueArchiveCharacters%20%28Github%29.zip"
+hash-format = "sha256"
+hash = "44bcda68f84fce678068d52616fef9d947118f898a4aa045f355d9e5f6130d03"

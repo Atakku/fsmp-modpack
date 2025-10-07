@@ -1,0 +1,8 @@
+name = "figura_ace"
+filename = "ace_0f_spade (Discord).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/ace_0f_spade%20%28Discord%29.zip"
+hash-format = "sha256"
+hash = "866d47b41261ca64093737ea9707c56bcab79b26ef363998ed9fbda035bb927f"

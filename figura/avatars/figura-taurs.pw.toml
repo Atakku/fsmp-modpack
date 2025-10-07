@@ -1,0 +1,8 @@
+name = "figura_taurs"
+filename = "Taurs-with-Keyboards (Github).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/Taurs-with-Keyboards%20%28Github%29.zip"
+hash-format = "sha256"
+hash = "213a4e87bacf11aae962917b18c4be9065311d5523cbca07eb6110dfe5c4d76d"

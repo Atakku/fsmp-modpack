@@ -1,0 +1,8 @@
+name = "figura_h077y"
+filename = "H077y - minecraftslugcat (Github).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/H077y%20-%20minecraftslugcat%20%28Github%29.zip"
+hash-format = "sha256"
+hash = "267cc9d379564fcef41ffb326d0ec22ed0f6fb92fed883b6a33e98defc86198d"

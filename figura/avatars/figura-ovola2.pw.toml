@@ -1,0 +1,8 @@
+name = "figura_ovola2"
+filename = "OvOla2 - AnAn-Figura-avatar (Github).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/OvOla2%20-%20AnAn-Figura-avatar%20%28Github%29.zip"
+hash-format = "sha256"
+hash = "08f1528e466aafcd24324a4bf24fb1c3cd0c57e9a26d1e407fef96456bb79d30"

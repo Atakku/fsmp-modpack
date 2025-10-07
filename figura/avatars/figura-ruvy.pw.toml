@@ -1,0 +1,8 @@
+name = "figura_ruvy"
+filename = "ruvy (Discord).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/ruvy%20%28Discord%29.zip"
+hash-format = "sha256"
+hash = "802ed3b45966b8ea0ce15045be4c7065f2efb53629bc8df3251fcdb2fd90a1cc"

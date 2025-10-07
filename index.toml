@@ -105,7 +105,55 @@ file = "config/xaerominimap.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
-file = "figura/avatars/figura-avatars.pw.toml"
+file = "figura/avatars/figura-ace.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-emilia.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-gakuto1112-fbac.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-gakuto1112-senko.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-gakuto1112.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-gn68.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-h077y.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-ibll.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-kabanfriends.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-ovola2.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-riftlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-ruvy.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/figura-taurs.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "figura_ibll"
+filename = "ibll - FiguraCreations (Github).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/ibll%20-%20FiguraCreations%20%28Github%29.zip"
+hash-format = "sha256"
+hash = "a13deae6eae7d6d633aa4dd35ea2b53940964b579a5faaa52f70879bf5fe5ff6"

@@ -1,0 +1,8 @@
+name = "figura_gakuto1112"
+filename = "Gakuto1112 (Github).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/Gakuto1112%20%28Github%29.zip"
+hash-format = "sha256"
+hash = "c531c5196b5ed802629c99f88cc55cbd23373b11f2bd9d6f484b13cf88094529"

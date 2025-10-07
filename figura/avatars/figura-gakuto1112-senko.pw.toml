@@ -1,0 +1,8 @@
+name = "figura_gakuto1112_senko"
+filename = "Gakuto1112 - SenkoSan (Github).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/Gakuto1112%20-%20SenkoSan%20%28Github%29.zip"
+hash-format = "sha256"
+hash = "14b8921fb9928c37695866c10fd79e6d3b24e090268d605cda8eff7e954d059b"

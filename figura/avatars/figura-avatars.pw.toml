@@ -1,8 +1,0 @@
-name = "figura-avatars"
-filename = "PublicAvatars.zip"
-side = "both"
-
-[download]
-url = "https://pwcdn.fem.place/PublicAvatars.zip"
-hash-format = "sha256"
-hash = "0c993c18736be8dbc507e69a58ffa265310fd882e5827969ffec028715dff7e3"

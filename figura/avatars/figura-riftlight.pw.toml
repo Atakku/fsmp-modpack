@@ -1,0 +1,8 @@
+name = "figura_riftlight"
+filename = "Riftlight - FiguraBlockMimic (Github).zip"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/figura/Riftlight%20-%20FiguraBlockMimic%20%28Github%29.zip"
+hash-format = "sha256"
+hash = "89c6c4766793c9101a4c66cbff0b2d144b93d5f518e2962ca974e40f4b685f13"
