@@ -1,8 +1,0 @@
-name = "figura-shiro"
-filename = "Shiro.zip"
-side = "client"
-
-[download]
-url = "https://github.com/Gakuto1112/SenkoSan/releases/download/v1.26.3/Shiro.zip"
-hash-format = "sha256"
-hash = "55634d6dfad6793f02d691fdb4705ad39725090de297792a0058dc87746bf9df"
