@@ -1,0 +1,8 @@
+name = "figura-sora"
+filename = "Sora.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Gakuto1112/SenkoSan/releases/download/v1.26.4/Sora.zip"
+hash-format = "sha256"
+hash = "2ed4dc47b1ed6ebdf776a57314bb42decdb47742e6b749ca45d2b4e09ed56f07"

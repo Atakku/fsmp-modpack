@@ -1,0 +1,8 @@
+name = "figura-suzu"
+filename = "Suzu.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Gakuto1112/SenkoSan/releases/download/v1.26.4/Suzu.zip"
+hash-format = "sha256"
+hash = "4adda7843d6aae16de98aef889ee18a7208a2df4dd692c8d2e2a718431ded5ca"

@@ -1,0 +1,14 @@
+name = "fga-ena-bbq"
+filename = "Salesman.Ena.v1.2.1.zip"
+side = "client"
+
+[download]
+url = "https://github.com/GN68/ena-bbq/releases/download/v1.2.0/Salesman.Ena.v1.2.1.zip"
+hash-format = "sha256"
+hash = "b2ca941724a72d4594beaded6b185533ceb310cc02370c6bfaaf127ff7831700"
+
+[update]
+[update.github]
+regex = "*.zip"
+slug = "GN68/ena-bbq"
+tag = "v1.2.0"

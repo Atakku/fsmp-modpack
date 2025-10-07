@@ -105,6 +105,26 @@ file = "config/xaerominimap.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
+file = "figura/avatars/GN68/figura-ena-bbq.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/Gakuto1112/SenkoSan/figura-senko.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/Gakuto1112/SenkoSan/figura-shiro.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/Gakuto1112/SenkoSan/figura-sora.pw.toml"
+metafile = true
+
+[[files]]
+file = "figura/avatars/Gakuto1112/SenkoSan/figura-suzu.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
