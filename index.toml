@@ -433,10 +433,6 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-man-of-many-planes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
@@ -682,6 +678,14 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/artifacts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create-man-of-many-planes.pw.toml"
 metafile = true
 
 [[files]]
