@@ -1,0 +1,9 @@
+version:3955
+autoJump:false
+renderClouds:"false"
+renderDistance:12
+skipMultiplayerWarning:true
+skipRealms32bitWarning:true
+realmsNotifications:false
+soundCategory_music:0.1
+narrator:0
