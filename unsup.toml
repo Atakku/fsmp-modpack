@@ -21,12 +21,41 @@ flavors = "map_journey"
 name = "Figura"
 side = "client"
 choices = [
+  { id = "figura_yesplus", name = "Yes and additional packs" },
   { id = "figura_yes", name = "Yes" },
-  { id = "figura_no", name = "No" },
+  { id = "figura_no", name = "No" }
 ]
 
 [metafile.figura]
 flavors = "figura_yes"
+[metafile.figura-svc]
+flavors = "figura_yes"
+[metafile.figura-ace]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-emilia]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-gakuto1112-fbac]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-gakuto1112-senko]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-gakuto1112]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-gn68]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-h077y]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-ibll]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-kabanfriends]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-ovola2]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-riftlight]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-ruvy]
+flavors = ["figura_yes", "figura_yesplus"]
+[metafile.figura-taurs]
+flavors = ["figura_yes", "figura_yesplus"]
 
 [flavor_groups.dh]
 name = "Distant Horizons"
