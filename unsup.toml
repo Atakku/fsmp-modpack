@@ -17,6 +17,17 @@ flavors = "map_journey"
 [metafile.journeymap]
 flavors = "map_journey"
 
+[flavor_groups.figura]
+name = "Figura"
+side = "client"
+choices = [
+  { id = "figura_yes", name = "Yes" },
+  { id = "figura_no", name = "No" },
+]
+
+[metafile.figura]
+flavors = "figura_yes"
+
 [flavor_groups.dh]
 name = "Distant Horizons"
 side = "client"
