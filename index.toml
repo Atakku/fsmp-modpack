@@ -731,14 +731,6 @@ file = "mods/testing/plane-advancements.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/rar-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/relics-mod.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/worldgen/adorabuild-structures.pw.toml"
 metafile = true
 
