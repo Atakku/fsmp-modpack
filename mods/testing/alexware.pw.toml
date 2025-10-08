@@ -1,0 +1,8 @@
+name = "alexware"
+filename = "classicperipherals-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/classicperipherals-0.1.0.jar"
+hash-format = "sha256"
+hash = "301997b219f9cccebf121d06c1de959c68fe2189f164d9bab6bd35b02b7cceda"
