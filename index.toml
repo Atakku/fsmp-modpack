@@ -7,6 +7,9 @@ file = "config/DistantHorizons.toml"
 file = "config/aileron.json"
 
 [[files]]
+file = "config/chatimageconfig.json"
+
+[[files]]
 file = "config/craftpresence.json"
 
 [[files]]
@@ -1156,6 +1159,10 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/custom/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/luckperms.pw.toml"
 metafile = true
 
 [[files]]
