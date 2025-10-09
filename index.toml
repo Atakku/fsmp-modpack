@@ -1174,10 +1174,6 @@ file = "mods/worldgen/end/end-villager-outpost.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/end/ends-phantasm.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/worldgen/end/nullscape.pw.toml"
 metafile = true
 

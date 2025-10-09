@@ -1,15 +1,15 @@
 name = "fsmp-datapack"
-filename = "fsmp-datapack-0.5.4.zip"
+filename = "fsmp-datapack-0.5.5.zip"
 side = "both"
 
 [download]
-url = "https://github.com/Atakku/fsmp-datares/releases/download/mc1.21.1/v0.5.4/fsmp-datapack-0.5.4.zip"
+url = "https://github.com/Atakku/fsmp-datares/releases/download/mc1.21.1/v0.5.5/fsmp-datapack-0.5.5.zip"
 hash-format = "sha256"
-hash = "9aa8f46b52ca1ffb287cd9593f1277f140a0053c3999b52bfb44cc581d43eac6"
+hash = "21ce040ad99adc9628515340529e4aa0ff4d463441b9614ecb57b1e155a28c51"
 
 [update]
 [update.github]
 branch = "1.21.1"
 regex = "fsmp-datapack-.*\\.zip$"
 slug = "atakku/fsmp-datares"
-tag = "mc1.21.1/v0.5.4"
+tag = "mc1.21.1/v0.5.5"
