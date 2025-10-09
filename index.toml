@@ -1162,10 +1162,6 @@ file = "mods/utilities/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/utilities/luckperms.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/utilities/solstice-essentials.pw.toml"
 metafile = true
 
