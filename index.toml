@@ -146,10 +146,6 @@ file = "figura/avatars/Public Avatars/figura-ibll.pw.toml"
 metafile = true
 
 [[files]]
-file = "figura/avatars/Public Avatars/figura-kabanfriends.pw.toml"
-metafile = true
-
-[[files]]
 file = "figura/avatars/Public Avatars/figura-ovola2.pw.toml"
 metafile = true
 

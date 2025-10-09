@@ -1,8 +1,0 @@
-name = "figura_kabanfriends"
-filename = "KabanFriends - Touhou-Figura-Pack (Github).zip"
-side = "both"
-
-[download]
-url = "https://pwcdn.fem.place/figura/KabanFriends%20-%20Touhou-Figura-Pack%20%28Github%29.zip"
-hash-format = "sha256"
-hash = "caf58c19cdf2e0f1b1588f2d6cc35f1ba0f9b2988e4883a213b3a3935258b8d2"

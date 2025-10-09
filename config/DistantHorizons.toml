@@ -730,7 +730,7 @@ _version = 3
 			#
 			# If enabled, a chat message will be displayed when a potentially problematic 
 			# mod is installed alongside DH.
-			showModCompatibilityWarningsOnStartup = true
+			showModCompatibilityWarningsOnStartup = false
 
 [server]
 	#
