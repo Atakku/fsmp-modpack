@@ -1,0 +1,13 @@
+name = "Classic Peripherals"
+filename = "classicperipherals-0.2.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F0AMrDjl/versions/AbO3wMCa/classicperipherals-0.2.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "617924e990e8cfd8588594947b9fbafd45862648e5e2f7a67721881a65b8dcdf976c9630cdf2e7e6a3a3ccaf4276da015a568fd3e6a5154add849fbcbdc07f97"
+
+[update]
+[update.modrinth]
+mod-id = "F0AMrDjl"
+version = "AbO3wMCa"
