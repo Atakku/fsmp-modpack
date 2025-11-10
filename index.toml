@@ -621,6 +621,10 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/async-locator-refined.pw.toml"
 metafile = true
 
